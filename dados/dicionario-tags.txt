@@ -1,0 +1,19 @@
+# Dicionario de tags do Blogger -> temas do grafo
+#
+# Formato de cada linha:
+#   tag exata do blogger => id_tema1, id_tema2
+#
+# - Copie a tag exatamente como aparece no Blogger (maiusculas/minusculas
+#   nao importam, mas acentos e emojis sim).
+# - Uma mesma tag pode apontar para mais de um tema, separado por virgula.
+# - Linhas comecando com # sao comentarios e sao ignoradas.
+# - Os ids de tema sao os mesmos usados no HTML do grafo (atributo id= de
+#   cada div .secao-cabecalhotemas), por exemplo: modernismo, liberalismo,
+#   maconaria, igreja-vaticano-segundista, etc.
+#
+# Toda tag que aparecer nos posts e NAO estiver aqui vai parar em
+# dados/tags-pendentes.json para voce revisar e completar depois.
+
+# --- exemplos reais encontrados no blog (preencha o restante) ---
+Igreja conciliar vaticano II🏗️ => igreja-vaticano-segundista
+1374 Humanismo => humanismo
