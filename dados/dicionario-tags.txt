@@ -1,19 +1,30 @@
-# Dicionario de tags do Blogger -> temas do grafo
-#
-# Formato de cada linha:
-#   tag exata do blogger => id_tema1, id_tema2
-#
-# - Copie a tag exatamente como aparece no Blogger (maiusculas/minusculas
-#   nao importam, mas acentos e emojis sim).
-# - Uma mesma tag pode apontar para mais de um tema, separado por virgula.
-# - Linhas comecando com # sao comentarios e sao ignoradas.
-# - Os ids de tema sao os mesmos usados no HTML do grafo (atributo id= de
-#   cada div .secao-cabecalhotemas), por exemplo: modernismo, liberalismo,
-#   maconaria, igreja-vaticano-segundista, etc.
-#
-# Toda tag que aparecer nos posts e NAO estiver aqui vai parar em
-# dados/tags-pendentes.json para voce revisar e completar depois.
-
-# --- exemplos reais encontrados no blog (preencha o restante) ---
 Igreja conciliar vaticano II🏗️ => igreja-vaticano-segundista
 1374 Humanismo => humanismo
+1517 Protestantismo📖 => protestantismo-pentecostalismo
+Sedevacantismo🪑 => sedevacantismo
+1930 Nova teologia => nova-teologia
+1910 Modernismo⚡ => modernismo
+Misericordismo-Universalismo => misericordismo
+Judaismo-Noachismo✡️ => judaismo-noachismo
+Igreja sinodal🤝 => igreja-sinodal
+Papa Leão XIV => Leao-XIV
+judaismo reformista => judaismo-reformista
+1970 Tradicionalismo🕯️ => tradicionalismo
+1776 Liberalismo => liberalismo
+1857 Espiritismo🔮 => espiritismo
+1534 Anglicanismo => anglicanismo
+1917  Comunismo => comunismo-progressismo
+Papado🔑 => papado
+1970 Lefebvrismo🛡️ => lefebvrismo
+1715 Iluminismo💡 => iluminismo
+1516 Regalismo => regalismo-galicanismo
+catarismo => catarismo
+pré-reforma hussita-lollarda => pre-reforma-hussitas-lollardos
+Ecumenismo-Fraternidade universal🕊️ => ecumenismo-fraternidade-universal
+Igreja pós-conciliar⛈️ => igreja-pos-conciliar
+1945 ONU => globalismo-pos-modernismo
+1979 Globalismo-pós-modernismo-new age🌐 => globalismo-pos-modernismo
+Ativismo Identitário🏳️‍🌈 => lgbtqiaismo-feminismo
+1969 Devocionismo => devocionismo
+0120 Gnosticismo => gnosticismo
+1970 Naturalismo => naturalismo
