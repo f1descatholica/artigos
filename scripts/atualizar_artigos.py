@@ -160,6 +160,12 @@ def main():
 
     print(f"{len(posts)} posts encontrados no feed.")
 
+    # Mais recentes primeiro. A data "published" do Blogger vem em
+    # formato ISO 8601, por isso a ordenacao por texto ja da a ordem
+    # cronologica correta. Trocavel a qualquer momento (ver decisao
+    # registrada no final desta resposta).
+    posts.sort(key=lambda p: p["data"], reverse=True)
+
     dicionario = carregar_dicionario()
     print(f"{len(dicionario)} tags mapeadas no dicionario.")
 
