@@ -14,6 +14,7 @@ rodado manualmente:  python scripts/atualizar_artigos.py
 
 import json
 import sys
+import time
 import urllib.request
 import urllib.error
 from pathlib import Path
@@ -21,6 +22,7 @@ from pathlib import Path
 BLOG_URL = "https://f1descatholica.blogspot.com"
 FEED_URL = BLOG_URL + "/feeds/posts/default"
 MAX_POR_PAGINA = 150  # limite seguro de itens por pagina do feed do Blogger
+MAX_TENTATIVAS_POR_PAGINA = 3
 
 PASTA_DADOS = Path(__file__).resolve().parent.parent / "dados"
 ARQUIVO_DICIONARIO = PASTA_DADOS / "dicionario-tags.txt"
@@ -34,14 +36,48 @@ def buscar_pagina(start_index):
         f"&start-index={start_index}"
     )
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return json.load(resp)
+
+    ultimo_erro = None
+    for tentativa in range(1, MAX_TENTATIVAS_POR_PAGINA + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return json.load(resp)
+        except (urllib.error.URLError, TimeoutError) as e:
+            ultimo_erro = e
+            print(f"[aviso] tentativa {tentativa}/{MAX_TENTATIVAS_POR_PAGINA} "
+                  f"falhou para start-index={start_index}: {e}")
+            if tentativa < MAX_TENTATIVAS_POR_PAGINA:
+                time.sleep(2 * tentativa)  # espera crescente entre tentativas
+
+    raise urllib.error.URLError(
+        f"falha ao buscar pagina (start-index={start_index}) apos "
+        f"{MAX_TENTATIVAS_POR_PAGINA} tentativas: {ultimo_erro}"
+    )
+
+
+def extrair_total_resultados(pagina):
+    # Total oficial de posts informado pelo proprio feed do Blogger.
+    # Se por algum motivo o campo nao vier, usamos infinito para nao
+    # travar o loop nessa checagem (a parada por pagina vazia continua
+    # valendo como rede de seguranca).
+    total = (
+        pagina.get("feed", {})
+        .get("openSearch$totalResults", {})
+        .get("$t")
+    )
+    try:
+        return int(total)
+    except (TypeError, ValueError):
+        return float("inf")
 
 
 def extrair_posts_da_pagina(pagina):
     posts = []
     entradas = pagina.get("feed", {}).get("entry", [])
+    descartados_sem_link = 0
+
     for entrada in entradas:
+        post_id = entrada.get("id", {}).get("$t", "")
         titulo = entrada.get("title", {}).get("$t", "").strip()
 
         link = None
@@ -51,6 +87,7 @@ def extrair_posts_da_pagina(pagina):
                 break
         if not link:
             # posts sem link "alternate" nao sao artigos publicados normais
+            descartados_sem_link += 1
             continue
 
         tags = [
@@ -62,26 +99,64 @@ def extrair_posts_da_pagina(pagina):
         data_publicacao = entrada.get("published", {}).get("$t", "")
 
         posts.append({
+            "id": post_id,
             "titulo": titulo,
             "url": link,
             "tags": tags,
             "data": data_publicacao,
         })
-    return posts
+
+    return posts, descartados_sem_link
 
 
 def buscar_todos_os_posts():
     todos = []
+    ids_vistos = set()  # protecao contra duplicidade
+    duplicados_ignorados = 0
+    total_descartados_sem_link = 0
     start_index = 1
+    total_esperado = None  # vem do feed na 1a resposta
+
     while True:
         pagina = buscar_pagina(start_index)
-        posts = extrair_posts_da_pagina(pagina)
-        if not posts:
+
+        # quantidade de entradas BRUTAS retornadas pelo Blogger nesta
+        # pagina, antes de qualquer filtro (usada so para decidir o
+        # avanco da paginacao, nao para o conteudo final)
+        entradas_brutas = pagina.get("feed", {}).get("entry", [])
+
+        if total_esperado is None:
+            total_esperado = extrair_total_resultados(pagina)
+
+        if not entradas_brutas:
+            # fim real: pagina veio vazia
             break
-        todos.extend(posts)
-        if len(posts) < MAX_POR_PAGINA:
+
+        posts, descartados = extrair_posts_da_pagina(pagina)
+        total_descartados_sem_link += descartados
+
+        for post in posts:
+            if post["id"] and post["id"] in ids_vistos:
+                duplicados_ignorados += 1
+                continue
+            if post["id"]:
+                ids_vistos.add(post["id"])
+            todos.append(post)
+
+        # avanca a paginacao com base na quantidade BRUTA recebida,
+        # nao na quantidade filtrada (posts sem link "alternate" nao
+        # podem fazer a paginacao parar cedo demais)
+        start_index += len(entradas_brutas)
+
+        if start_index > total_esperado:
             break
-        start_index += MAX_POR_PAGINA
+
+    if total_descartados_sem_link > 0:
+        print(f"[info] {total_descartados_sem_link} posts descartados "
+              f"por nao terem link 'alternate' (nao sao artigos publicados normais).")
+    if duplicados_ignorados > 0:
+        print(f"[info] {duplicados_ignorados} posts duplicados ignorados.")
+
     return todos
 
 
