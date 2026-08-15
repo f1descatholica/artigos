@@ -19,8 +19,7 @@ Estados Unidos => americanismo
 2015 Ambientalismo🌱 => ambientalismo
 2015 Encíclica Laudato Si => ambientalismo
 Arcebispo Vittorio Francesco Viola => ambientalismo
-2025 Papa Francisco => ambientalismo
-Globalismo-pós-modernismo-new age🌐 => ambientalismo
+2015 Ambientalismo => ambientalismo
 
 # Anglicanismo
 1534 Anglicanismo => anglicanismo
@@ -355,15 +354,19 @@ Materialismo => naturalismo
 1990 Marie-Dominique Chenu => nova-teologia
 2009 Padre Johannes Dormann => nova-teologia
 Atila Sinke Guimarães => nova-teologia
+
 # Ortodoxia oriental
 Igreja Assíria do Oriente => ortodoxia-oriental
 0381 Primeiro Concílio de Constantinopla => ortodoxia-oriental
 0553 Segundo Concílio de Constantinopla => ortodoxia-oriental
 Russia ortodoxa => ortodoxia-oriental
+
 # Paganismo greco-romano
 1440 Renascimento => paganismo-greco-romano
 1499 Marsilio Ficino => paganismo-greco-romano
 1494 Giovanni Pico della Mirandola => paganismo-greco-romano
+Paganismo greco-romano => paganismo-greco-romano
+
 # Papado
 Papado🔑 => papado
 1870 Concílio Vaticano I => papado
@@ -495,4 +498,4 @@ Ativismo Identitário🏳️‍🌈 => wokismo
 Michel Foucault => wokismo
 1984 Michel Foucault => wokismo
 1998 Jean-François Lyotard => wokismo
-2015 Ambientalismo🌱 => wokismo
+
