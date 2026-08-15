@@ -1,30 +1,498 @@
-Igreja conciliar vaticano II🏗️ => igreja-vaticano-segundista
-1374 Humanismo => humanismo
-1517 Protestantismo📖 => protestantismo-pentecostalismo
-Sedevacantismo🪑 => sedevacantismo
-1930 Nova teologia => nova-teologia
-1910 Modernismo⚡ => modernismo
-Misericordismo-Universalismo => misericordismo
-Judaismo-Noachismo✡️ => judaismo-noachismo
-Igreja sinodal🤝 => igreja-sinodal
-Papa Leão XIV => Leao-XIV
-judaismo reformista => judaismo-reformista
-1970 Tradicionalismo🕯️ => tradicionalismo
-1776 Liberalismo => liberalismo
-1857 Espiritismo🔮 => espiritismo
+# Abortismo
+1973 Abortismo => abortismo
+Caso Roe v. Wade => abortismo
+Caso Dobbs v. Jackson Women's Health Organization => abortismo
+Emma Bonino => abortismo
+Mariana Mazzucato => abortismo
+Pontifícia Academia para a Vida => abortismo
+Priests for Life => abortismo
+Padre Frank Pavone => abortismo
+
+# Americanismo
+Americanismo🇺🇸 => americanismo
+1888 Padre Isaac Thomas Hecker => americanismo
+1899 Carta apostólica Testem benevolentiae => americanismo
+1921 Cardeal James Gibbons => americanismo
+Estados Unidos => americanismo
+
+# Ambientalismo
+2015 Ambientalismo🌱 => ambientalismo
+2015 Encíclica Laudato Si => ambientalismo
+Arcebispo Vittorio Francesco Viola => ambientalismo
+2025 Papa Francisco => ambientalismo
+Globalismo-pós-modernismo-new age🌐 => ambientalismo
+
+# Anglicanismo
 1534 Anglicanismo => anglicanismo
-1917  Comunismo => comunismo-progressismo
-Papado🔑 => papado
-1970 Lefebvrismo🛡️ => lefebvrismo
-1715 Iluminismo💡 => iluminismo
-1516 Regalismo => regalismo-galicanismo
+Bula Apostolicae Curae => anglicanismo
+1551 Martin Bucer => anglicanismo
+1555 Nicholas Ridley => anglicanismo
+1556 Thomas Cranmer => anglicanismo
+Inglaterra => anglicanismo
+2015 Monsenhor William Baum => anglicanismo
+
+# Anticristianismo primitivo
+Anticristo => anticristianismo-primitivo
+# Apostasia jesuíta
+Apostasia jesuíta => apostasia-jesuita
+Jesuítas => apostasia-jesuita
+1986 Cardeal Michele Pellegrino => apostasia-jesuita
+Teologia da libertação => apostasia-jesuita
+
+# Arianismo
+0319 Arianismo => arianismo
+0325 Concílio de Niceia => arianismo
+0337 Constantino => arianismo
+0381 Primeiro Concílio de Constantinopla => arianismo
+
+# Ativismo identitário
+Ativismo Identitário🏳️‍🌈 => lgbtqiaismo-feminismo
+Bispo Franz-Josef Bode => lgbtqiaismo-feminismo
+Bispo Georg Bätzing => lgbtqiaismo-feminismo
+Bispo Peter Kohlgraf => lgbtqiaismo-feminismo
+Bispo Stephan Ackermann => lgbtqiaismo-feminismo
+Bispo Walter Kasper => lgbtqiaismo-feminismo
+Bispo John Stowe => lgbtqiaismo-feminismo
+
+# Bento XVI
+2022 Papa Bento XVI => bento-XVI
+Alexis Bugnolo => bento-XVI
+FromRome.Info => bento-XVI
+
+# Cabalismo
+Cabala => cabalismo
+1572 Isaac Luria => cabalismo
+1676 Sabbatai Zevi => cabalismo
+1680 Nathan de Gaza => cabalismo
+1791 Jacob Frank => cabalismo
+1900 Benjamin Benamozegh => cabalismo
+Movimento Chabad-Lubavitch => cabalismo
+# Catarismo
 catarismo => catarismo
-pré-reforma hussita-lollarda => pre-reforma-hussitas-lollardos
+1140 Cátaros => catarismo
+1096 Cruzadas => catarismo
+1231 Santo Antônio => catarismo
+1221 São Domingos => catarismo
+1226 São Francisco => catarismo
+# Comunismo / Progressismo
+1917 Comunismo => comunismo-progressismo
+Marxismo => comunismo-progressismo
+1959 Manning Johnson => comunismo-progressismo
+1986 Cardeal Michele Pellegrino => comunismo-progressismo
+2022 Cardeal Cláudio Hummes => comunismo-progressismo
+1971 Teologia da libertação => comunismo-progressismo
+2024 Economia de Francisco => comunismo-progressismo
+1971 Cardeal Antonio Bacci => comunismo-progressismo
+Progressismo => comunismo-progressismo
+Teologia indigenista => comunismo-progressismo
+Ativismo social🧠 => comunismo-progressismo
+# Concílio de Trento
+1545 Concílio de Trento => igreja-concilio-de-trento
+1570 Encíclica Quo Primum Tempore => igreja-concilio-de-trento
+1572 Papa Pio V => igreja-concilio-de-trento
+1993 Sociedade Sacerdotal Trento => igreja-concilio-de-trento
+# Devocionismo
+1969 Devocionismo => devocionismo
+1690 Santa Margarida Maria Alacoque => devocionismo
+Sagrado Coração de Jesus => devocionismo
+Fátima => devocionismo
+1917 Fátima => devocionismo
+Rosário => devocionismo
+# Ecumenismo / Fraternidade universal
 Ecumenismo-Fraternidade universal🕊️ => ecumenismo-fraternidade-universal
-Igreja pós-conciliar⛈️ => igreja-pos-conciliar
+1928 Encíclica Mortalium Animos => ecumenismo-fraternidade-universal
+1964 Decreto Unitatis Redintegratio => ecumenismo-fraternidade-universal
+1995 Encíclica Ut Unum Sint => ecumenismo-fraternidade-universal
+1965 Declaração Nostra Aetate => ecumenismo-fraternidade-universal
+1597 São Pedro Canísio => ecumenismo-fraternidade-universal
+Aparições em Medjugorje => ecumenismo-fraternidade-universal
+Dicastério para o Diálogo Inter-religioso => ecumenismo-fraternidade-universal
+# Espiritismo
+1857 Espiritismo🔮 => espiritismo
+1869 Allan Kardec => espiritismo
+1899 Padre Michael Müller => espiritismo
+Francesco Bamonte => espiritismo
+1944 Padre Júlio Maria de Lombaerde => espiritismo
+Helena Blavatsky => espiritismo
+Alice Bailey => espiritismo
+# Eurasianismo
+Aleksandr Dugin => eurasianismo
+Eurasianismo => eurasianismo
+Quarta Teoria Política => eurasianismo
+Russia ortodoxa => eurasianismo
+# Evolucionismo
+1955 Evolucionismo espiritual => evolucionismo
+1955 Padre Pierre Teilhard de Chardin => evolucionismo
+1954 Eduard Le Roy => evolucionismo
+1950 Encíciclica Humani Generis => evolucionismo
+# Francisco
+2025 Papa Francisco => francisco
+2013 Exortação Apostólica Evangelii Gaudium => francisco
+2015 Encíclica Laudato Si => francisco
+2020 Encíclica Fratelli Tutti => francisco
+2024 Declaração Fiducia supplicans => francisco
+2025 Exortação Apostólica Dilexi Te => francisco
+2021 pandemia => francisco
+Sínodo da Amazônia => francisco
+Economia de Francisco => francisco
+Cardeal Víctor Manuel Fernández => francisco
+# Galicanismo
+1302 Galicanismo => galicanismo
+1516 Regalismo => galicanismo
+1378 Grande cisma do ocidente => galicanismo
+1892 Encíclica AU MILIEU DES SOLLICITUDES => galicanismo
+1786 Sínodo de Pistoia => galicanismo
+1794 Bula Auctorem Fidei => galicanismo
+# Globalismo / Pós-modernismo
 1945 ONU => globalismo-pos-modernismo
 1979 Globalismo-pós-modernismo-new age🌐 => globalismo-pos-modernismo
-Ativismo Identitário🏳️‍🌈 => lgbtqiaismo-feminismo
-1969 Devocionismo => devocionismo
+1987 Fórum Econômico Mundial => globalismo-pos-modernismo
+Klaus Schwab => globalismo-pos-modernismo
+1998 Jean-François Lyotard => globalismo-pos-modernismo
+1900 Friedrich Nietzsche => globalismo-pos-modernismo
+1984 Michel Foucault => globalismo-pos-modernismo
+Escola de Frankfurt => globalismo-pos-modernismo
+2020 Encíclica Fratelli Tutti => globalismo-pos-modernismo
+# Gnosticismo
 0120 Gnosticismo => gnosticismo
+Antropoteísmo => gnosticismo
+Helena Blavatsky => gnosticismo
+Alice Bailey => gnosticismo
+Mestre Eckhart => gnosticismo
+1535 Heinrich Cornelius Agrippa => gnosticismo
+1607 Rosacrucianismo => gnosticismo
+# Grande apostasia
+Grande apostasia => grande-apostasia
+Apostasia jesuíta => grande-apostasia
+Anticristo => grande-apostasia
+Fim dos tempos => grande-apostasia
+Profecias => grande-apostasia
+# Humanismo
+1374 Humanismo => humanismo
+Renascimento => humanismo
+1494 Giovanni Pico della Mirandola => humanismo
+1499 Marsilio Ficino => humanismo
+1535 Heinrich Cornelius Agrippa => humanismo
+1949 Maurice Blondel => humanismo
+# Igreja — Concílio de Trento
+1545 Concílio de Trento => igreja-concilio-de-trento
+1570 Encíclica Quo Primum Tempore => igreja-concilio-de-trento
+1572 Papa Pio V => igreja-concilio-de-trento
+1993 Sociedade Sacerdotal Trento => igreja-concilio-de-trento
+# Igreja — Vaticano I
+1870 Concílio Vaticano I => igreja-vaticano-i
+1870 Constituição dogmática Pastor Aeternus => igreja-vaticano-i
+1870 Constituição dogmática DEI FILIUS => igreja-vaticano-i
+Ultramontanismo => igreja-vaticano-i
+# Igreja conciliar / Vaticano II
+Igreja conciliar vaticano II🏗️ => igreja-vaticano-segundista
+1964 Constituição Dogmática Lumen Gentium => igreja-vaticano-segundista
+1964 Teoria da hierarquia das verdades => igreja-vaticano-segundista
+1965 Declaração Nostra Aetate => igreja-vaticano-segundista
+1964 Decreto Unitatis Redintegratio => igreja-vaticano-segundista
+1965 Declaração Dignitatis Humanae => igreja-vaticano-segundista
+1965 Constituiçâo pastoral Gaudium et Spes => igreja-vaticano-segundista
+Constituição Sacrosanctum Concilium => igreja-vaticano-segundista
+1963 Papa João XXIII => igreja-vaticano-segundista
+# Igreja pós-conciliar
+Igreja pós-conciliar⛈️ => igreja-pos-conciliar
+1964 Constituição Dogmática Lumen Gentium => igreja-pos-conciliar
+Constituição Sacrosanctum Concilium => igreja-pos-conciliar
+1965 Declaração Nostra Aetate => igreja-pos-conciliar
+1965 Declaração Dignitatis Humanae => igreja-pos-conciliar
+1965 Constituiçâo pastoral Gaudium et Spes => igreja-pos-conciliar
+1967 Renovação Carismática => igreja-pos-conciliar
+1964 Movimento Neocatecumenal => igreja-pos-conciliar
+2021 Motu Proprio Traditionis Custodes => igreja-pos-conciliar
+Missal 1962 => igreja-pos-conciliar
+# Igreja sinodal
+Igreja sinodal🤝 => igreja-sinodal
+Documento Síntese da XVI Assembleia Geral do Sínodo dos Bispos => igreja-sinodal
+2019 Sínodo da Amazônia => igreja-sinodal
+Sínodo da Família => igreja-sinodal
+Grupo de Saint Gallen => igreja-sinodal
+Caminho Sinodal Alemão => igreja-sinodal
+2016 Dubia => igreja-sinodal
+Klaus Schwab => igreja-sinodal
+Cardeal Walter Kasper => igreja-sinodal
+# Iluminismo
+1715 Iluminismo💡 => iluminismo
+1778 Voltaire (François-Marie Arouet) => iluminismo
+1778 Jean-Jacques Rousseau => iluminismo
+Marquês de Pombal => iluminismo
+1789 Revolução Francesa => iluminismo
+1789 Democratismo => iluminismo
+Immanuel kant => iluminismo
+1831 Georg Wilhelm Friedrich Hegel => iluminismo
+# Indiferentismo
+1846 Indiferentismo religioso => indiferentismo
+1846 Encíclica Qui Pluribus => indiferentismo
+1832 Encíclica Mirari Vos => indiferentismo
+1965 Declaração Dignitatis Humanae => indiferentismo
+# Islamismo
+0622 Islamismo => islamismo
+# Jansenismo
+1640 Jansenismo => jansenismo
+1713 Bula papal Unigenitus => jansenismo
+1719 Pasquier Quesnel => jansenismo
+1721 Papa Clemente XI => jansenismo
+1846 França => jansenismo
+# João Paulo II
+2005 Papa João Paulo II => joao-paulo-II
+Nova teologia de João Paulo II => joao-paulo-II
+1995 Encíclica Ut Unum Sint => joao-paulo-II
+# Judaísmo / Noachismo
+Judaismo-Noachismo✡️ => judaismo-noachismo
+1987 Noachismo => judaismo-noachismo
+1900 Benjamin Benamozegh => judaismo-noachismo
+Movimento Chabad-Lubavitch => judaismo-noachismo
+Talmude => judaismo-noachismo
+2013 Geza Vermes => judaismo-noachismo
+2005 Paul Démann => judaismo-noachismo
+# Judaísmo reformista
+judaismo reformista => judaismo-reformista
+Martin Buber => judaismo-reformista
+1965 Martin Buber => judaismo-reformista
+2013 Geza Vermes => judaismo-reformista
+2005 Paul Démann => judaismo-reformista
+# Leão XIV
+Papa Leão XIV => Leao-XIV
+Cardeal Robert Francis Prevost => Leao-XIV
+Cardeal Arthur Roche => Leao-XIV
+Cardeal Cristóbal López Romero => Leao-XIV
+Cardeal Jaime Spengler => Leao-XIV
+Bispo Daniel Garcia => Leao-XIV
+Chris Jackson => Leao-XIV
+# Lefebvrismo
+1970 Lefebvrismo🛡️ => lefebvrismo
+1970 FSSPX => lefebvrismo
+1991 Arcebispo Marcel Lefebvre => lefebvrismo
+Bispo Bernard Fellay => lefebvrismo
+Padre Davide Pagliarani => lefebvrismo
+Dom Loya => lefebvrismo
+Padre Raymond Dulac => lefebvrismo
+1978 Hugh Ross Williamson => lefebvrismo
+2004 Michael Davies => lefebvrismo
+# Liberalismo
+1776 Liberalismo => liberalismo
+1931 Padre Louis Cardinal Billot => liberalismo
+1888 Encíclica Libertas Praestantissimum => liberalismo
+1832 Encíclica Mirari Vos => liberalismo
+1965 Declaração Dignitatis Humanae => liberalismo
+1778 Jean-Jacques Rousseau => liberalismo
+1789 Democratismo => liberalismo
+1789 Revolução Francesa => liberalismo
+# Livros
+livros => livros
+1991 Ricardo García Villoslada => livros
+1975 Léon de Poncins => livros
+2004 Michael Davies => livros
+1997 Romano Amerio => livros
+2010 Orlando Fedeli => livros
+Atila Sinke Guimarães => livros
+Ralph Wiltgen => livros
+# Maçonaria
+1717 Maçonaria👁️ => maconaria
+1884 Encíclica Humanum Genus => maconaria
+1744 Jean Théophile Désaguliers => maconaria
+James Anderson => maconaria
+1891 Albert Pike => maconaria
+1913 Cardeal Mariano Rampolla del Tindaro => maconaria
+1932 Padre Ernest Jouin => maconaria
+1738 Encíclica In eminenti => maconaria
+1740 Papa Clemente XII => maconaria
+1891 Dom Antônio de Macedo Costa => maconaria
+# Materialismo
+Marxismo => materialismo
+1677 Monismo => materialismo
+Escola de Frankfurt => materialismo
+# Misericordismo
+Misericordismo-Universalismo => misericordismo
+Aidan Nichols => misericordismo
+Ralph Martin => misericordismo
+1751 São Leonardo de Porto Maurício => misericordismo
+2020 Encíclica Fratelli Tutti => misericordismo
+2025 Papa Francisco => misericordismo
+# Modernismo
+1910 Modernismo⚡ => modernismo
+1907 Encíclica Pascendi Dominici Gregis => modernismo
+1922 Louis Duchesne => modernismo
+1940 Padre Alfred Loisy => modernismo
+1946 Padre Ernesto Buonaiuti => modernismo
+1954 Eduard Le Roy => modernismo
+Antonio Fogazzaro => modernismo
+Historicismo => modernismo
+1677 Monismo => modernismo
+Racionalismo🗿 => modernismo
+Relativismo => modernismo
+# Naturalismo
 1970 Naturalismo => naturalismo
+1950 Encíciclica Humani Generis => naturalismo
+1955 Evolucionismo espiritual => naturalismo
+1955 Padre Pierre Teilhard de Chardin => naturalismo
+Evolucionismo => naturalismo
+Racionalismo🗿 => naturalismo
+Materialismo => naturalismo
+# Neoplatonismo
+1499 Marsilio Ficino => neoplatonismo
+1494 Giovanni Pico della Mirandola => neoplatonismo
+1535 Heinrich Cornelius Agrippa => neoplatonismo
+1328 Mestre Eckhart => neoplatonismo
+# Nominalismo-voluntarismo
+1347 Nominalismo => nominalismo-voluntarismo
+1347 Guilherme de Ockham => nominalismo-voluntarismo
+1308 João Duns Escoto => nominalismo-voluntarismo
+1328 Mestre Eckhart => nominalismo-voluntarismo
+1366 Heinrich Seuse => nominalismo-voluntarismo
+# Nova Teologia
+1930 Nova teologia => nova-teologia
+1964 Padre Garrigou-Lagrange => nova-teologia
+1984 Karl Rahner => nova-teologia
+1988 Hans Urs von Balthasar => nova-teologia
+1991 Henri de Lubac => nova-teologia
+2009 Edward Schillebeeckx => nova-teologia
+1974 Jean Danielou => nova-teologia
+1990 Marie-Dominique Chenu => nova-teologia
+2009 Padre Johannes Dormann => nova-teologia
+Atila Sinke Guimarães => nova-teologia
+# Ortodoxia oriental
+Igreja Assíria do Oriente => ortodoxia-oriental
+0381 Primeiro Concílio de Constantinopla => ortodoxia-oriental
+0553 Segundo Concílio de Constantinopla => ortodoxia-oriental
+Russia ortodoxa => ortodoxia-oriental
+# Paganismo greco-romano
+1440 Renascimento => paganismo-greco-romano
+1499 Marsilio Ficino => paganismo-greco-romano
+1494 Giovanni Pico della Mirandola => paganismo-greco-romano
+# Papado
+Papado🔑 => papado
+1870 Concílio Vaticano I => papado
+1870 Constituição dogmática Pastor Aeternus => papado
+1870 Constituição dogmática DEI FILIUS => papado
+1302 Bula Unam Sanctam => papado
+Dictatus Papae => papado
+S. Gregório VII => papado
+1621 São Belarmino => papado
+Encíclica Satis Cognitum => papado
+# Pelagianismo
+Pelagianismo => pelagianismo
+S. AGOSTINHO => pelagianismo
+# Pentecostalismo
+1901 Pentecostalismo🔥 => pentecostalismo
+1929 Charles Fox Parham => pentecostalismo
+1967 Renovação Carismática => pentecostalismo
+1844 Adventismo => pentecostalismo
+# Pré-Reforma Hussita / Lollarda
+pré-reforma hussita-lollarda => pre-reforma-hussitas-lollardos
+Johannes Hus => pre-reforma-hussitas-lollardos
+John Wycliffe => pre-reforma-hussitas-lollardos
+# Protestantismo / Pentecostalismo
+1517 Protestantismo📖 => protestantismo-pentecostalismo
+1536 Ulrico Zuínglio => protestantismo-pentecostalismo
+1564 João Calvino => protestantismo-pentecostalismo
+1572 John Knox => protestantismo-pentecostalismo
+1546 Martinho Lutero => protestantismo-pentecostalismo
+1551 Martin Bucer => protestantismo-pentecostalismo
+1555 Nicholas Ridley => protestantismo-pentecostalismo
+1556 Thomas Cranmer => protestantismo-pentecostalismo
+1901 Pentecostalismo🔥 => protestantismo-pentecostalismo
+1929 Charles Fox Parham => protestantismo-pentecostalismo
+1967 Renovação Carismática => protestantismo-pentecostalismo
+1844 Adventismo => protestantismo-pentecostalismo
+# Racionalismo
+Racionalismo🗿 => racionalismo
+1778 Voltaire (François-Marie Arouet) => racionalismo
+Immanuel kant => racionalismo
+1831 Georg Wilhelm Friedrich Hegel => racionalismo
+1900 Friedrich Nietzsche => racionalismo
+1347 Guilherme de Ockham => racionalismo
+1677 Monismo => racionalismo
+1494 Giovanni Pico della Mirandola => racionalismo
+# Reformismo da Igreja
+Reformismo da igreja🔨 => reformismo-da-igreja
+Igreja sinodal🤝 => reformismo-da-igreja
+Documento Síntese da XVI Assembleia Geral do Sínodo dos Bispos => reformismo-da-igreja
+2013 Exortação Apostólica Evangelii Gaudium => reformismo-da-igreja
+2020 Encíclica Fratelli Tutti => reformismo-da-igreja
+2015 Encíclica Laudato Si => reformismo-da-igreja
+1964 Movimento Neocatecumenal => reformismo-da-igreja
+2013 Franciscanos da Imaculada => reformismo-da-igreja
+# Reformismo litúrgico
+Reformismo litúrgico🔄 => reformismo-liturgico
+Constituição Sacrosanctum Concilium => reformismo-liturgico
+1982 Padre Annibale Bugnini => reformismo-liturgico
+1948 Odo Casel => reformismo-liturgico
+1959 Yngve Torgny Brilioth => reformismo-liturgico
+1960 Lambert Beauduin => reformismo-liturgico
+1975 Josef Jungmann => reformismo-liturgico
+2004 Padre Louis Bouyer => reformismo-liturgico
+1989 Padre Klaus Gamber => reformismo-liturgico
+1960 Movimento Litúrgico => reformismo-liturgico
+# Regalismo / Galicanismo
+1516 Regalismo => regalismo-galicanismo
+1302 Galicanismo => regalismo-galicanismo
+1378 Grande cisma do ocidente => regalismo-galicanismo
+1892 Encíclica AU MILIEU DES SOLLICITUDES => regalismo-galicanismo
+1850 Questão Religiosa => regalismo-galicanismo
+1891 Dom Antônio de Macedo Costa => regalismo-galicanismo
+# Relativismo
+1880 Relativismo => relativismo
+1984 Michel Foucault => relativismo
+1998 Jean-François Lyotard => relativismo
+1995 Encíclica Ut Unum Sint => relativismo
+1964 Teoria da hierarquia das verdades => relativismo
+0185 Aniquilacionismo => relativismo
+Antinomianismo => relativismo
+1965 Declaração Dignitatis Humanae => relativismo
+1965 Declaração Nostra Aetate => relativismo
+# Renascimento
+1440 Renascimento => renascimento
+1494 Giovanni Pico della Mirandola => renascimento
+1499 Marsilio Ficino => renascimento
+1535 Heinrich Cornelius Agrippa => renascimento
+# Rosacrucianismo
+1607 Rosacrucianismo => rosacrucianismo
+AMORC => rosacrucianismo
+Ordem Rosacruz => rosacrucianismo
+# Sedevacantismo
+Sedevacantismo🪑 => sedevacantismo
+1988 Padre Guérard des Lauriers => sedevacantismo
+2022 Bispo Daniel Dolan => sedevacantismo
+2023 Bispo Clarence Kelly => sedevacantismo
+2015 Bispo Robert McKenna => sedevacantismo
+Alfredo Méndez-Gonzalez => sedevacantismo
+Clemente Domínguez y Gómez => sedevacantismo
+Michel-Louis Guérard des Lauriers => sedevacantismo
+John S. Daly => sedevacantismo
+Martin Gwynne => sedevacantismo
+Richard Ibranyi => sedevacantismo
+Vincent Zins => sedevacantismo
+Istituto Mater Boni Consilii => sedevacantismo
+Padre Francesco Ricossa => sedevacantismo
+# Teomarxismo
+1971 Teologia da libertação => teomarxismo
+Teologia indigenista => teomarxismo
+Teologia do povo => teomarxismo
+Marxismo => teomarxismo
+Escola de Frankfurt => teomarxismo
+# Tradicionalismo
+1970 Tradicionalismo🕯️ => tradicionalismo
+1970 FSSPX => tradicionalismo
+Sociedade de São Pio X => tradicionalismo
+Instituto Cristo Rei Sumo Sacerdote => tradicionalismo
+Instituto do Bom Pastor => tradicionalismo
+Mosteiro da Santa Cruz => tradicionalismo
+2013 Jean Madiran => tradicionalismo
+2005 Padre Gommar DePauw => tradicionalismo
+1975 Léon de Poncins => tradicionalismo
+1989 Padre Klaus Gamber => tradicionalismo
+Padre Claude Barthe => tradicionalismo
+Peter Kwasniewski => tradicionalismo
+# Wokismo
+Ativismo woke🧠 => wokismo
+Escola de Frankfurt => wokismo
+Ativismo Identitário🏳️‍🌈 => wokismo
+Michel Foucault => wokismo
+1984 Michel Foucault => wokismo
+1998 Jean-François Lyotard => wokismo
+2015 Ambientalismo🌱 => wokismo
