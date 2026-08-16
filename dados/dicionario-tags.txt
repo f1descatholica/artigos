@@ -45,7 +45,7 @@ Teologia da libertação => apostasia-jesuita
 0381 Primeiro Concílio de Constantinopla => arianismo
 
 # Ativismo identitário
-Ativismo Identitário🏳️‍🌈 => lgbtqiaismo-feminismo
+Ativismo Identitário => lgbtqiaismo-feminismo
 Bispo Franz-Josef Bode => lgbtqiaismo-feminismo
 Bispo Georg Bätzing => lgbtqiaismo-feminismo
 Bispo Peter Kohlgraf => lgbtqiaismo-feminismo
@@ -98,7 +98,7 @@ Fátima => devocionismo
 1917 Fátima => devocionismo
 Rosário => devocionismo
 # Ecumenismo / Fraternidade universal
-Ecumenismo-Fraternidade universal🕊️ => ecumenismo-fraternidade-universal
+Ecumenismo-Fraternidade universal🕊 => ecumenismo-fraternidade-universal
 1928 Encíclica Mortalium Animos => ecumenismo-fraternidade-universal
 1964 Decreto Unitatis Redintegratio => ecumenismo-fraternidade-universal
 1995 Encíclica Ut Unum Sint => ecumenismo-fraternidade-universal
@@ -184,7 +184,7 @@ Renascimento => humanismo
 1870 Constituição dogmática DEI FILIUS => igreja-vaticano-i
 Ultramontanismo => igreja-vaticano-i
 # Igreja conciliar / Vaticano II
-Igreja conciliar vaticano II🏗️ => igreja-vaticano-segundista
+Igreja conciliar vaticano II🏗 => igreja-vaticano-segundista
 1964 Constituição Dogmática Lumen Gentium => igreja-vaticano-segundista
 1964 Teoria da hierarquia das verdades => igreja-vaticano-segundista
 1965 Declaração Nostra Aetate => igreja-vaticano-segundista
@@ -194,7 +194,7 @@ Igreja conciliar vaticano II🏗️ => igreja-vaticano-segundista
 Constituição Sacrosanctum Concilium => igreja-vaticano-segundista
 1963 Papa João XXIII => igreja-vaticano-segundista
 # Igreja pós-conciliar
-Igreja pós-conciliar⛈️ => igreja-pos-conciliar
+Igreja pós-conciliar⛈ => igreja-pos-conciliar
 1964 Constituição Dogmática Lumen Gentium => igreja-pos-conciliar
 Constituição Sacrosanctum Concilium => igreja-pos-conciliar
 1965 Declaração Nostra Aetate => igreja-pos-conciliar
@@ -241,7 +241,7 @@ Immanuel kant => iluminismo
 Nova teologia de João Paulo II => joao-paulo-II
 1995 Encíclica Ut Unum Sint => joao-paulo-II
 # Judaísmo / Noachismo
-Judaismo-Noachismo✡️ => judaismo-noachismo
+Judaismo-Noachismo✡ => judaismo-noachismo
 1987 Noachismo => judaismo-noachismo
 1900 Benjamin Benamozegh => judaismo-noachismo
 Movimento Chabad-Lubavitch => judaismo-noachismo
@@ -263,7 +263,7 @@ Cardeal Jaime Spengler => Leao-XIV
 Bispo Daniel Garcia => Leao-XIV
 Chris Jackson => Leao-XIV
 # Lefebvrismo
-1970 Lefebvrismo🛡️ => lefebvrismo
+1970 Lefebvrismo🛡 => lefebvrismo
 1970 FSSPX => lefebvrismo
 1991 Arcebispo Marcel Lefebvre => lefebvrismo
 Bispo Bernard Fellay => lefebvrismo
@@ -291,7 +291,7 @@ livros => livros
 Atila Sinke Guimarães => livros
 Ralph Wiltgen => livros
 # Maçonaria
-1717 Maçonaria👁️ => maconaria
+1717 Maçonaria👁 => maconaria
 1884 Encíclica Humanum Genus => maconaria
 1744 Jean Théophile Désaguliers => maconaria
 James Anderson => maconaria
@@ -479,7 +479,7 @@ Teologia do povo => teomarxismo
 Marxismo => teomarxismo
 Escola de Frankfurt => teomarxismo
 # Tradicionalismo
-1970 Tradicionalismo🕯️ => tradicionalismo
+1970 Tradicionalismo🕯 => tradicionalismo
 1970 FSSPX => tradicionalismo
 Sociedade de São Pio X => tradicionalismo
 Instituto Cristo Rei Sumo Sacerdote => tradicionalismo
@@ -494,8 +494,6 @@ Peter Kwasniewski => tradicionalismo
 # Wokismo
 Ativismo woke🧠 => wokismo
 Escola de Frankfurt => wokismo
-Ativismo Identitário🏳️‍🌈 => wokismo
 Michel Foucault => wokismo
 1984 Michel Foucault => wokismo
 1998 Jean-François Lyotard => wokismo
-
