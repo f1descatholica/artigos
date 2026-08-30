@@ -21,8 +21,8 @@
   },
   {
     "tag": "l agosto",
-    "ocorrencias": 40,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/28-ago-s-agostinho-bispo-confessor-e.html"
+    "ocorrencias": 41,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/30-de-ago-santa-rosa-de-lima-virgem.html"
   },
   {
     "tag": "l julho",
@@ -107,7 +107,7 @@
   {
     "tag": "l pentecostes",
     "ocorrencias": 31,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/07-set-xiii-domingo-depois-de.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/xiv-domingo-depois-de-pentecostes.html"
   },
   {
     "tag": "l Nossa Senhora",
@@ -285,14 +285,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/12/25-dez-natividade-de-nosso-senhor-jesus.html"
   },
   {
+    "tag": "c virgens 3",
+    "ocorrencias": 10,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/30-de-ago-santa-rosa-de-lima-virgem.html"
+  },
+  {
     "tag": "p doutores",
     "ocorrencias": 10,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/28-ago-s-agostinho-bispo-confessor-e.html"
-  },
-  {
-    "tag": "c virgens 3",
-    "ocorrencias": 10,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/12-ago-s-clara-virgem.html"
   },
   {
     "tag": "c abades",
@@ -522,7 +522,7 @@
   {
     "tag": "c martir nao virgem 1",
     "ocorrencias": 4,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/25-julho-s-cristovao-martir.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/08/29-agosto-santa-sabina-martir-perola.html"
   },
   {
     "tag": "c vários mártires 1",
@@ -1453,6 +1453,11 @@
     "tag": "1910 Joaquim Nabuco",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/lideres-macons-no-brasil-seculo-xix.html"
+  },
+  {
+    "tag": "p profetas",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/29-ago-degola-de-s-joao-batista.html"
   },
   {
     "tag": "Irmã Amapola",
@@ -3293,16 +3298,6 @@
     "tag": "Padre Francisco Radecki",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/livro-o-que-aconteceu-com-igreja.html"
-  },
-  {
-    "tag": "S. ROSA DE LIMA",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/30-de-ago-santa-rosa-de-lima-virgem.html"
-  },
-  {
-    "tag": "p profetas",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/29-ago-degola-de-s-joao-batista.html"
   },
   {
     "tag": "1994 Jacques Ellul",
