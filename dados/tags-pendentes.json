@@ -21,7 +21,7 @@
   },
   {
     "tag": "l agosto",
-    "ocorrencias": 42,
+    "ocorrencias": 43,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/08/3108-s-raimundo-nonato-confessor.html"
   },
   {
@@ -135,14 +135,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/a-doutora-da-igreja-uma-ruptura-com.html"
   },
   {
+    "tag": "l setembro",
+    "ocorrencias": 28,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
+  },
+  {
     "tag": "l maio",
     "ocorrencias": 28,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/15-junho-festa-da-santissima-trindade.html"
-  },
-  {
-    "tag": "l setembro",
-    "ocorrencias": 28,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/15-set-as-sete-dores-de-nossa-senhora.html"
   },
   {
     "tag": "1717 Maçonaria👁️",
@@ -215,14 +215,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/05/litanias-menores-dias-de-rogacoes.html"
   },
   {
+    "tag": "c confessores não bispos 1",
+    "ocorrencias": 15,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/08/3108-s-raimundo-nonato-confessor.html"
+  },
+  {
     "tag": "1903 Papa Leão XIII",
     "ocorrencias": 15,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/03/em-meio-as-solicitudes-carta-enciclica.html"
-  },
-  {
-    "tag": "c confessores não bispos 1",
-    "ocorrencias": 14,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/19-ago-s-joao-eudes-confessor.html"
   },
   {
     "tag": "2022 Carvalho",
@@ -285,6 +285,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/12/25-dez-natividade-de-nosso-senhor-jesus.html"
   },
   {
+    "tag": "c abades",
+    "ocorrencias": 10,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
+  },
+  {
     "tag": "c virgens 3",
     "ocorrencias": 10,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/30-de-ago-santa-rosa-de-lima-virgem.html"
@@ -293,11 +298,6 @@
     "tag": "p doutores",
     "ocorrencias": 10,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/28-ago-s-agostinho-bispo-confessor-e.html"
-  },
-  {
-    "tag": "c abades",
-    "ocorrencias": 10,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/25-junho-s-guilherme-abade.html"
   },
   {
     "tag": "l domingo",
@@ -365,11 +365,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/07/09-julho-santa-maria-goretti-virgem-e.html"
   },
   {
-    "tag": "Eclo 44",
-    "ocorrencias": 7,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-12-fev-os-sete.html"
-  },
-  {
     "tag": "Lc 2",
     "ocorrencias": 7,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-02-fev-purificacao-de.html"
@@ -393,6 +388,11 @@
     "tag": "1991 Bispo Antônio de Castro Mayer",
     "ocorrencias": 6,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/03/padre-elcio-murucci-e-administracao.html"
+  },
+  {
+    "tag": "Eclo 44",
+    "ocorrencias": 6,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-12-fev-os-sete.html"
   },
   {
     "tag": "1949 Feminismo",
@@ -468,11 +468,6 @@
     "tag": "Mt 16",
     "ocorrencias": 5,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-22-fev-catedra-de-sao.html"
-  },
-  {
-    "tag": "Mt 25",
-    "ocorrencias": 5,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/01/liturgia-diaria-21-jan-santa-ines.html"
   },
   {
     "tag": "Lc 12",
@@ -568,6 +563,11 @@
     "tag": "Mt 18",
     "ocorrencias": 4,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/01/liturgia-diaria-31-jan-s-joao-bosco.html"
+  },
+  {
+    "tag": "Mt 25",
+    "ocorrencias": 4,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/01/liturgia-diaria-21-jan-santa-ines.html"
   },
   {
     "tag": "Tim II-4",
@@ -873,6 +873,11 @@
     "tag": "1999 Dom Hélder Câmara",
     "ocorrencias": 3,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/09/concilio-vaticano-ii-conexoes-com.html"
+  },
+  {
+    "tag": "p vários mártires",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/08/1-setembro-os-doze-santos-irmaos.html"
   },
   {
     "tag": "S. CATARINA DE SENA",
@@ -3255,11 +3260,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/por-que-os-bispos-no-debate-sobre.html"
   },
   {
-    "tag": "S. LOURENÇO JUSTINIANI",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-ago-s-lourenco-justiniani-bispo-e.html"
-  },
-  {
     "tag": "S. PIO X",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/03-set-s-pio-x-papa-e-confessor.html"
@@ -3278,16 +3278,6 @@
     "tag": "S. ESTÊVÃO REI",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/02-set-s-estevao-rei-confessor.html"
-  },
-  {
-    "tag": "S. EGÍDIO",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
-  },
-  {
-    "tag": "p vários mártires",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/08/1-setembro-os-doze-santos-irmaos.html"
   },
   {
     "tag": "Padre Dominic Radecki",
