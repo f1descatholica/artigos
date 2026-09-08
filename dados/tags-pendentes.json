@@ -105,14 +105,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-aug-st-laurence-justinian-bishop-and.html"
   },
   {
+    "tag": "l Nossa Senhora",
+    "ocorrencias": 31,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/08-set-natividade-de-nossa-senhora.html"
+  },
+  {
     "tag": "l pentecostes",
     "ocorrencias": 31,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/21-set-xv-domingo-depois-de-pentecostes.html"
-  },
-  {
-    "tag": "l Nossa Senhora",
-    "ocorrencias": 31,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/22-ago-imaculado-coracao-de-maria.html"
   },
   {
     "tag": "p mártires",
@@ -137,7 +137,7 @@
   {
     "tag": "l setembro",
     "ocorrencias": 28,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-ago-s-lourenco-justiniani-bispo-e.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/08-set-natividade-de-nossa-senhora.html"
   },
   {
     "tag": "l maio",
@@ -450,11 +450,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/06/a-carta-de-2012-quando-williamson.html"
   },
   {
-    "tag": "Lc 10",
-    "ocorrencias": 5,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/04/25-de-abril-sao-marcos-evangelista.html"
-  },
-  {
     "tag": "Mt 5",
     "ocorrencias": 5,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/7-marco-s-tomas-de-aquino-confessor-e.html"
@@ -533,6 +528,11 @@
     "tag": "l ascensão",
     "ocorrencias": 4,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/01-junho-domingo-depois-da-ascensao.html"
+  },
+  {
+    "tag": "Lc 10",
+    "ocorrencias": 4,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/04/25-de-abril-sao-marcos-evangelista.html"
   },
   {
     "tag": "l cinzas",
@@ -998,11 +998,6 @@
     "tag": "Mt 4",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/liturgia-diaria-09032025-i-domingo-da.html"
-  },
-  {
-    "tag": "Is 58",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/liturgia-diaria-08-mar-sabado-depois.html"
   },
   {
     "tag": "Mt 23",
@@ -2280,6 +2275,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-22-fev-catedra-de-sao.html"
   },
   {
+    "tag": "Is 58",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/liturgia-diaria-08-mar-sabado-depois.html"
+  },
+  {
     "tag": "Mc 6",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/liturgia-diaria-08-mar-sabado-depois.html"
@@ -3248,16 +3248,6 @@
     "tag": "S. Proto e S. Jacinto",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/11-set-ss-proto-e-jacinto-martires.html"
-  },
-  {
-    "tag": "S. Nicolau de Tolentino",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/10-de-setembro-sao-nicolau-de-tolentino.html"
-  },
-  {
-    "tag": "S. Pedro Claver",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/09-de-setembro-s-pedro-claver-confessor.html"
   },
   {
     "tag": "1978 Douglas Woodruff",
