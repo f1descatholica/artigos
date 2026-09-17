@@ -80,6 +80,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/october-31st-vigil-of-all-saints.html"
   },
   {
+    "tag": "l setembro",
+    "ocorrencias": 32,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/17-set-impressao-dos-estigmas-de-s.html"
+  },
+  {
     "tag": "l junho",
     "ocorrencias": 32,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/29junho-sao-pedro-e-sao-paulo-apostolos.html"
@@ -103,11 +108,6 @@
     "tag": "l august",
     "ocorrencias": 32,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-aug-st-laurence-justinian-bishop-and.html"
-  },
-  {
-    "tag": "l setembro",
-    "ocorrencias": 31,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/16-set-s-cornelio-papa-e-s-cipriano.html"
   },
   {
     "tag": "l Nossa Senhora",
@@ -425,6 +425,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/a-crise-da-traditionis-custodes-e.html"
   },
   {
+    "tag": "c vários mártires 1",
+    "ocorrencias": 5,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/16-set-s-cornelio-papa-e-s-cipriano.html"
+  },
+  {
     "tag": "c um mártir 3 não bispo",
     "ocorrencias": 5,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/15-set-sao-nicomedes-martir.html"
@@ -463,11 +468,6 @@
     "tag": "Mt 11",
     "ocorrencias": 5,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-24-fev-s-matias.html"
-  },
-  {
-    "tag": "Mt 16",
-    "ocorrencias": 5,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-22-fev-catedra-de-sao.html"
   },
   {
     "tag": "1954 Denis Fahey",
@@ -510,11 +510,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/11/aceitando-pessoas-transgenero-e-pessoas.html"
   },
   {
-    "tag": "c vários mártires 1",
-    "ocorrencias": 4,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/16-set-s-cornelio-papa-e-s-cipriano.html"
-  },
-  {
     "tag": "c martir nao virgem 1",
     "ocorrencias": 4,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/08/29-agosto-santa-sabina-martir-perola.html"
@@ -538,6 +533,11 @@
     "tag": "Lc 10",
     "ocorrencias": 4,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/04/25-de-abril-sao-marcos-evangelista.html"
+  },
+  {
+    "tag": "Mt 16",
+    "ocorrencias": 4,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-22-fev-catedra-de-sao.html"
   },
   {
     "tag": "l cinzas",
@@ -1180,16 +1180,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/livro-o-triunfo-do-modernismo-sobre.html"
   },
   {
-    "tag": "Gal 6",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/4-out-s-francisco-de-assis-confessor.html"
-  },
-  {
-    "tag": "S. Francisco de Assis",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/4-out-s-francisco-de-assis-confessor.html"
-  },
-  {
     "tag": "1879 ENCÍCLICA AETERNI PATRIS",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/a-luz-eterna-da-sabedoria-o-chamado.html"
@@ -1448,6 +1438,11 @@
     "tag": "1910 Joaquim Nabuco",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/lideres-macons-no-brasil-seculo-xix.html"
+  },
+  {
+    "tag": "l festas",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/17-set-impressao-dos-estigmas-de-s.html"
   },
   {
     "tag": "Aristóteles",
@@ -3138,6 +3133,16 @@
     "tag": "S. Bruno",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/06-out-s-bruno-confessor.html"
+  },
+  {
+    "tag": "Gal 6",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/4-out-s-francisco-de-assis-confessor.html"
+  },
+  {
+    "tag": "S. Francisco de Assis",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/4-out-s-francisco-de-assis-confessor.html"
   },
   {
     "tag": "Is 66",
