@@ -52,7 +52,7 @@
   {
     "tag": "p confessores",
     "ocorrencias": 35,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/09-de-setembro-s-pedro-claver-confessor.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/18-set-s-jose-de-cupertino-confessor.html"
   },
   {
     "tag": "Ecumenismo-Fraternidade universal",
@@ -63,6 +63,11 @@
     "tag": "l jan",
     "ocorrencias": 35,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/01/31-jan-iv-sunday-after-epiphany.html"
+  },
+  {
+    "tag": "l setembro",
+    "ocorrencias": 33,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/18-set-s-jose-de-cupertino-confessor.html"
   },
   {
     "tag": "l december",
@@ -80,9 +85,9 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/october-31st-vigil-of-all-saints.html"
   },
   {
-    "tag": "l setembro",
+    "tag": "l Nossa Senhora",
     "ocorrencias": 32,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/17-set-impressao-dos-estigmas-de-s.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/15-set-as-sete-dores-de-nossa-senhora.html"
   },
   {
     "tag": "l junho",
@@ -108,11 +113,6 @@
     "tag": "l august",
     "ocorrencias": 32,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-aug-st-laurence-justinian-bishop-and.html"
-  },
-  {
-    "tag": "l Nossa Senhora",
-    "ocorrencias": 31,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/15-set-as-sete-dores-de-nossa-senhora.html"
   },
   {
     "tag": "l pentecostes",
@@ -960,11 +960,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/03/8-mar-francisca-romana-viuva.html"
   },
   {
-    "tag": "Mt 22",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/8-marco-s-joao-de-deus-confessor.html"
-  },
-  {
     "tag": "Mt 21",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/21-mar-sexta-feira-da-2-semana-da.html"
@@ -1008,11 +1003,6 @@
     "tag": "Is 19",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/02/17-de-fev-fuga-de-nosso-senhor-jesus.html"
-  },
-  {
-    "tag": "Cor I-13",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/liturgia-diaria-02-mar-domingo-da.html"
   },
   {
     "tag": "Mt 10",
@@ -2145,6 +2135,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/8-marco-s-joao-de-deus-confessor.html"
   },
   {
+    "tag": "Mt 22",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/8-marco-s-joao-de-deus-confessor.html"
+  },
+  {
     "tag": "S. João de Deus",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/8-marco-s-joao-de-deus-confessor.html"
@@ -2328,6 +2323,11 @@
     "tag": "l local",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/02/17-de-fev-fuga-de-nosso-senhor-jesus.html"
+  },
+  {
+    "tag": "Cor I-13",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/liturgia-diaria-02-mar-domingo-da.html"
   },
   {
     "tag": "Lc 18",
@@ -3238,11 +3238,6 @@
     "tag": "S. Januário e companheiros",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/19-set-s-januario-bispo-e-seus.html"
-  },
-  {
-    "tag": "S. José de Cupertino",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/18-set-s-jose-de-cupertino-confessor.html"
   },
   {
     "tag": "Padre Chad Ripperger",
