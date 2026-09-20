@@ -66,8 +66,8 @@
   },
   {
     "tag": "l setembro",
-    "ocorrencias": 33,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/18-set-s-jose-de-cupertino-confessor.html"
+    "ocorrencias": 34,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/19-set-s-januario-bispo-e-seus.html"
   },
   {
     "tag": "l december",
@@ -87,7 +87,7 @@
   {
     "tag": "l Nossa Senhora",
     "ocorrencias": 32,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/15-set-as-sete-dores-de-nossa-senhora.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/19-set-nossa-senhora-de-la-salette.html"
   },
   {
     "tag": "l junho",
@@ -312,7 +312,7 @@
   {
     "tag": "c vários mártires 3",
     "ocorrencias": 9,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/11-set-ss-proto-e-jacinto-martires.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/19-set-s-januario-bispo-e-seus.html"
   },
   {
     "tag": "1970 Sociedade de São Pio X",
@@ -515,6 +515,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/08/29-agosto-santa-sabina-martir-perola.html"
   },
   {
+    "tag": "c vigílias dos apóstolos",
+    "ocorrencias": 4,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/24-julho-vigilia-de-s-tiago-apostolo.html"
+  },
+  {
     "tag": "p virgem e mártir",
     "ocorrencias": 4,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/10-julho-ss-sete-irmaos-martires-e-ss.html"
@@ -665,11 +670,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/05-ago-dedicacao-de-n-senhora-das-neves.html"
   },
   {
-    "tag": "c vigílias dos apóstolos",
-    "ocorrencias": 3,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/24-julho-vigilia-de-s-tiago-apostolo.html"
-  },
-  {
     "tag": "Frei Tiago de São José",
     "ocorrencias": 3,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/07/baseado-na-homilia-antiga-religiao-e-o.html"
@@ -748,11 +748,6 @@
     "tag": "Lc 6",
     "ocorrencias": 3,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/01/liturgia-diaria-20-jan-s-fabiano-e-s.html"
-  },
-  {
-    "tag": "Mt 24",
-    "ocorrencias": 3,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/01/19-jan-ss-mario-marta-audifaz-e-abaco.html"
   },
   {
     "tag": "2025 Documento Mater Populi Fidelis",
@@ -1038,6 +1033,11 @@
     "tag": "Heb 11",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/01/liturgia-diaria-20-jan-s-fabiano-e-s.html"
+  },
+  {
+    "tag": "Mt 24",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/01/19-jan-ss-mario-marta-audifaz-e-abaco.html"
   },
   {
     "tag": "Col 3",
@@ -3218,26 +3218,6 @@
     "tag": "S. Tomás de Vilanova",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/22-set-s-tomas-de-vilanova-bispo-e.html"
-  },
-  {
-    "tag": "L. Ez 1",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/21-set-s-mateus-apostolo-e-evangelista.html"
-  },
-  {
-    "tag": "L. Mt 9",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/21-set-s-mateus-apostolo-e-evangelista.html"
-  },
-  {
-    "tag": "S. Mateus",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/21-set-s-mateus-apostolo-e-evangelista.html"
-  },
-  {
-    "tag": "S. Januário e companheiros",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/19-set-s-januario-bispo-e-seus.html"
   },
   {
     "tag": "Padre Chad Ripperger",
