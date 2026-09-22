@@ -67,7 +67,7 @@
   {
     "tag": "l setembro",
     "ocorrencias": 34,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/21-set-s-mateus-apostolo-e-evangelista.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/22-set-s-tomas-de-vilanova-bispo-e.html"
   },
   {
     "tag": "l december",
@@ -275,14 +275,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/a-defesa-da-igreja-catolica-frente.html"
   },
   {
-    "tag": "c confessores pontifices 1",
-    "ocorrencias": 11,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/23-julho-sao-liborio-bispo-e-confessor.html"
-  },
-  {
     "tag": "l advento",
     "ocorrencias": 11,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/12/25-dez-natividade-de-nosso-senhor-jesus.html"
+  },
+  {
+    "tag": "c confessores pontifices 1",
+    "ocorrencias": 10,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/22-set-s-tomas-de-vilanova-bispo-e.html"
   },
   {
     "tag": "c abades",
@@ -380,6 +380,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/a-destronizacao-liturgica-de-cristo-rei.html"
   },
   {
+    "tag": "c vários mártires 1",
+    "ocorrencias": 6,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/22-set-s-mauricio-e-companheiros.html"
+  },
+  {
     "tag": "c confessores não bispos 2",
     "ocorrencias": 6,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/10-de-setembro-sao-nicolau-de-tolentino.html"
@@ -428,11 +433,6 @@
     "tag": "c vários mártires 2",
     "ocorrencias": 5,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/20-set-s-eustaquio-e-companheiros.html"
-  },
-  {
-    "tag": "c vários mártires 1",
-    "ocorrencias": 5,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/16-set-s-cornelio-papa-e-s-cipriano.html"
   },
   {
     "tag": "c um mártir 3 não bispo",
@@ -3203,21 +3203,6 @@
     "tag": "S. Lino",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/23-set-s-lino-papa-e-martir.html"
-  },
-  {
-    "tag": "Ap 7",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/22-set-s-mauricio-e-companheiros.html"
-  },
-  {
-    "tag": "S. Maurício e companheiros",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/22-set-s-mauricio-e-companheiros.html"
-  },
-  {
-    "tag": "S. Tomás de Vilanova",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/22-set-s-tomas-de-vilanova-bispo-e.html"
   },
   {
     "tag": "Padre Chad Ripperger",
