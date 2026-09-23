@@ -67,7 +67,7 @@
   {
     "tag": "l setembro",
     "ocorrencias": 34,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/22-set-s-tomas-de-vilanova-bispo-e.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/23-set-s-lino-papa-e-martir.html"
   },
   {
     "tag": "l december",
@@ -175,14 +175,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/06/padre-jose-eduardo-e-o-dilema-da.html"
   },
   {
+    "tag": "c papas",
+    "ocorrencias": 20,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/23-set-s-lino-papa-e-martir.html"
+  },
+  {
     "tag": "p bispos",
     "ocorrencias": 20,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-ago-s-lourenco-justiniani-bispo-e.html"
-  },
-  {
-    "tag": "c papas",
-    "ocorrencias": 20,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/26-ago-sao-zeferino-papa-e-martir.html"
   },
   {
     "tag": "1978 Papa Paulo VI",
@@ -355,14 +355,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/11/o-bispo-stowe-e-conhecido-por-seu.html"
   },
   {
+    "tag": "c virgens martires 1",
+    "ocorrencias": 7,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/23-set-s-tecla-virgem-e-martir.html"
+  },
+  {
     "tag": "c não virgens não mártires 2",
     "ocorrencias": 7,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/21-ago-s-joana-francisca-fremiot-de.html"
-  },
-  {
-    "tag": "c virgens martires 1",
-    "ocorrencias": 7,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/07/09-julho-santa-maria-goretti-virgem-e.html"
   },
   {
     "tag": "Lc 2",
@@ -745,11 +745,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-03-fev.html"
   },
   {
-    "tag": "Lc 6",
-    "ocorrencias": 3,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/01/liturgia-diaria-20-jan-s-fabiano-e-s.html"
-  },
-  {
     "tag": "2025 Documento Mater Populi Fidelis",
     "ocorrencias": 3,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/agenda-da-mater-populi-fidelis-um-eco.html"
@@ -1035,6 +1030,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/01/liturgia-diaria-20-jan-s-fabiano-e-s.html"
   },
   {
+    "tag": "Lc 6",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/01/liturgia-diaria-20-jan-s-fabiano-e-s.html"
+  },
+  {
     "tag": "Mt 24",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/01/19-jan-ss-mario-marta-audifaz-e-abaco.html"
@@ -1098,11 +1098,6 @@
     "tag": "1846 La Salette",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/iminencia-do-anticristo-sob-otica-de-la.html"
-  },
-  {
-    "tag": "Missa salve - V - Pentecostes/Advento",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/21-nov-apresentacao-de-nossa-senhora.html"
   },
   {
     "tag": "Ap 21",
@@ -1428,6 +1423,11 @@
     "tag": "1910 Joaquim Nabuco",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/lideres-macons-no-brasil-seculo-xix.html"
+  },
+  {
+    "tag": "S. Lino",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/23-set-s-lino-papa-e-martir.html"
   },
   {
     "tag": "l festas",
@@ -2865,6 +2865,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/22-nov-s-cecilia-virgem-e-martir.html"
   },
   {
+    "tag": "Missa salve - V - Pentecostes/Advento",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/21-nov-apresentacao-de-nossa-senhora.html"
+  },
+  {
     "tag": "S. Félix de Valois",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/20-nov-s-felix-de-valois-confessor.html"
@@ -3180,29 +3185,9 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/28-set-s-venceslau-duque-e-martir.html"
   },
   {
-    "tag": "S. Cosme e S. Damião",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/27-set-ss-cosme-e-damiao-martires.html"
-  },
-  {
-    "tag": "Sab 5",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/27-set-ss-cosme-e-damiao-martires.html"
-  },
-  {
-    "tag": "S. Cipriano e S. Justina",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/26-set-s-cipriano-martir-e-s-justina.html"
-  },
-  {
     "tag": "2012 Padre Paul Schoonbroodt",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/alianca-tradicionalista-colaboracao.html"
-  },
-  {
-    "tag": "S. Lino",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/23-set-s-lino-papa-e-martir.html"
   },
   {
     "tag": "Padre Chad Ripperger",
