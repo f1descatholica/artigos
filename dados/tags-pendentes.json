@@ -66,7 +66,7 @@
   },
   {
     "tag": "l setembro",
-    "ocorrencias": 34,
+    "ocorrencias": 33,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/24-set-nossa-senhora-das-merces-nossa.html"
   },
   {
@@ -440,11 +440,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/20-set-s-eustaquio-e-companheiros.html"
   },
   {
-    "tag": "c um mártir 3 não bispo",
-    "ocorrencias": 5,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/15-set-sao-nicomedes-martir.html"
-  },
-  {
     "tag": "p virgens",
     "ocorrencias": 5,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/29-julho-s-marta-virgem.html"
@@ -518,6 +513,11 @@
     "tag": "c vigílias dos apóstolos",
     "ocorrencias": 4,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/20-set-vigilia-s-mateus.html"
+  },
+  {
+    "tag": "c um mártir 3 não bispo",
+    "ocorrencias": 4,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/15-set-sao-nicomedes-martir.html"
   },
   {
     "tag": "c martir nao virgem 1",
@@ -3175,7 +3175,7 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/29-set-dedicacao-de-s-miguel-arcanjo.html"
   },
   {
-    "tag": "S. Venceslau",
+    "tag": "l 2025",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/28-set-s-venceslau-duque-e-martir.html"
   },
