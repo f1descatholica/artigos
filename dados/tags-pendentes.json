@@ -150,14 +150,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/paolo-vi-beato-o-livro-mais-polemico-de.html"
   },
   {
+    "tag": "l outubro",
+    "ocorrencias": 27,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/01-out-s-remigio-bispo-e-confessor.html"
+  },
+  {
     "tag": "l quaresma",
     "ocorrencias": 27,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/04/sabado-da-4-semana-da-quaresma.html"
-  },
-  {
-    "tag": "l outubro",
-    "ocorrencias": 27,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/31-out-vigilia-de-todos-os-santos.html"
   },
   {
     "tag": "l abril",
@@ -282,12 +282,12 @@
   {
     "tag": "c confessores pontifices 1",
     "ocorrencias": 10,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/22-set-s-tomas-de-vilanova-bispo-e.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/01-out-s-remigio-bispo-e-confessor.html"
   },
   {
     "tag": "c abades",
     "ocorrencias": 10,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/01-setembro-santo-egidio-abade-santa.html"
   },
   {
     "tag": "c virgens 3",
@@ -333,6 +333,11 @@
     "tag": "p santos",
     "ocorrencias": 8,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/29-set-dedicacao-de-s-miguel-arcanjo.html"
+  },
+  {
+    "tag": "l 2025",
+    "ocorrencias": 8,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
   },
   {
     "tag": "Lc 1",
@@ -413,11 +418,6 @@
     "tag": "Bispo Rodrigo da Silva",
     "ocorrencias": 6,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/monsenhor-pierre-roy-e-sua-carta-aberta.html"
-  },
-  {
-    "tag": "l 2025",
-    "ocorrencias": 6,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/30-set-s-jeronimo-presbitero-confessor.html"
   },
   {
     "tag": "Padre Álvaro Martín Calderón",
@@ -1423,11 +1423,6 @@
     "tag": "1910 Joaquim Nabuco",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/lideres-macons-no-brasil-seculo-xix.html"
-  },
-  {
-    "tag": "S. Jerônimo",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/30-set-s-jeronimo-presbitero-confessor.html"
   },
   {
     "tag": "l festas",
@@ -3168,11 +3163,6 @@
     "tag": "Ex 23",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/02-out-os-santos-anjos-da-guarda.html"
-  },
-  {
-    "tag": "S. Remígio",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/01-out-s-remigio-bispo-e-confessor.html"
   },
   {
     "tag": "2012 Padre Paul Schoonbroodt",
