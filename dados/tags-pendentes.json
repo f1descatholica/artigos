@@ -72,7 +72,7 @@
   {
     "tag": "l Nossa Senhora",
     "ocorrencias": 33,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/nossa-senhora-medianeira-de-todas-as.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/07-out-nossa-senhora-do-santo-rosario.html"
   },
   {
     "tag": "l december",
@@ -115,6 +115,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-aug-st-laurence-justinian-bishop-and.html"
   },
   {
+    "tag": "l outubro",
+    "ocorrencias": 31,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/santos-sergio-baco-marcelo-e-apuleio.html"
+  },
+  {
     "tag": "l pentecostes",
     "ocorrencias": 31,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/xix-domingo-depois-de-pentecostes.html"
@@ -128,11 +133,6 @@
     "tag": "l dezembro",
     "ocorrencias": 30,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/liturgia-diaria-31-dez-vii-dia-da.html"
-  },
-  {
-    "tag": "l outubro",
-    "ocorrencias": 29,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/06-out-s-bruno-confessor.html"
   },
   {
     "tag": "l novembro",
@@ -176,8 +176,8 @@
   },
   {
     "tag": "c papas",
-    "ocorrencias": 20,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/23-set-s-lino-papa-e-martir.html"
+    "ocorrencias": 21,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/7-out-sao-marcos-i-papa-e-confessor.html"
   },
   {
     "tag": "p bispos",
@@ -205,6 +205,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/06/carta-do-arcebispo-carlo-maria-vigano.html"
   },
   {
+    "tag": "l 2025",
+    "ocorrencias": 17,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
+  },
+  {
     "tag": "c doutores",
     "ocorrencias": 16,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/30-set-s-jeronimo-presbitero-confessor.html"
@@ -228,11 +233,6 @@
     "tag": "1914 Papa Pio X",
     "ocorrencias": 15,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/da-condenacao-reabilitacao-os.html"
-  },
-  {
-    "tag": "l 2025",
-    "ocorrencias": 15,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
   },
   {
     "tag": "1903 Papa Leão XIII",
@@ -340,11 +340,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/02-out-os-santos-anjos-da-guarda.html"
   },
   {
-    "tag": "Lc 1",
-    "ocorrencias": 8,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-11-fev-nossa-senhora-de.html"
-  },
-  {
     "tag": "l natividade",
     "ocorrencias": 8,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/01/santissimo-nome-de-jesus.html"
@@ -370,6 +365,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/21-ago-s-joana-francisca-fremiot-de.html"
   },
   {
+    "tag": "Lc 1",
+    "ocorrencias": 7,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-11-fev-nossa-senhora-de.html"
+  },
+  {
     "tag": "E. Michael Jones",
     "ocorrencias": 7,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/01/o-espirito-revolucionario-judaico-e-seu.html"
@@ -378,6 +378,11 @@
     "tag": "1939 Papa Pio XI",
     "ocorrencias": 7,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/a-destronizacao-liturgica-de-cristo-rei.html"
+  },
+  {
+    "tag": "c vários mártires 2",
+    "ocorrencias": 6,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/santos-sergio-baco-marcelo-e-apuleio.html"
   },
   {
     "tag": "c vários mártires 1",
@@ -450,11 +455,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/martires-da-fe-e-da-missao-destruicao.html"
   },
   {
-    "tag": "c vários mártires 2",
-    "ocorrencias": 5,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/20-set-s-eustaquio-e-companheiros.html"
-  },
-  {
     "tag": "c virgens mártires 2",
     "ocorrencias": 5,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/07/20-julho-s-margarida-virgem-e-martir.html"
@@ -513,6 +513,11 @@
     "tag": "Alemanha",
     "ocorrencias": 5,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/11/aceitando-pessoas-transgenero-e-pessoas.html"
+  },
+  {
+    "tag": "e Lc 1 26",
+    "ocorrencias": 4,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/07-out-nossa-senhora-do-santo-rosario.html"
   },
   {
     "tag": "c vigílias dos apóstolos",
@@ -698,11 +703,6 @@
     "tag": "Jo 10",
     "ocorrencias": 3,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/04/quarta-feira-da-semana-da-paixao.html"
-  },
-  {
-    "tag": "Lc 1 26",
-    "ocorrencias": 3,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/25-mar-anunciacao-de-nossa-senhora.html"
   },
   {
     "tag": "S. PEDRO",
@@ -1088,11 +1088,6 @@
     "tag": "Eclo 24",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/liturgia-diaria-12122024-festa-de-nossa.html"
-  },
-  {
-    "tag": "Prov 8",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/liturgia-diaria-08122024-imaculada.html"
   },
   {
     "tag": "Rm 10",
@@ -2815,6 +2810,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/liturgia-diaria-10-dez-s-melquiades.html"
   },
   {
+    "tag": "Prov 8",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/liturgia-diaria-08122024-imaculada.html"
+  },
+  {
     "tag": "Rm 15",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/12/07-dez-ii-domingo-do-advento.html"
@@ -3158,6 +3158,11 @@
     "tag": "S. Brígida",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/08-out-s-brigida-viuva.html"
+  },
+  {
+    "tag": "l 2026",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/7-out-ss-sergio-e-companheiros-martires.html"
   },
   {
     "tag": "2012 Padre Paul Schoonbroodt",
