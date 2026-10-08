@@ -25,6 +25,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/08/3108-s-raimundo-nonato-confessor.html"
   },
   {
+    "tag": "Igreja pós-conciliar⛈️",
+    "ocorrencias": 40,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/o-amor-verdadeiro-como-desejo-da.html"
+  },
+  {
     "tag": "Igreja conciliar vaticano II🏗️",
     "ocorrencias": 40,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/da-redencao-dogmatica-reparacao.html"
@@ -33,11 +38,6 @@
     "tag": "l julho",
     "ocorrencias": 40,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/31-julho-s-inacio-de-loiola-confessor.html"
-  },
-  {
-    "tag": "Igreja pós-conciliar⛈️",
-    "ocorrencias": 39,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/da-condenacao-reabilitacao-os.html"
   },
   {
     "tag": "l fevereiro",
@@ -90,6 +90,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/october-31st-vigil-of-all-saints.html"
   },
   {
+    "tag": "l pentecostes",
+    "ocorrencias": 32,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/xx-domingo-depois-de-pentecostes.html"
+  },
+  {
     "tag": "l junho",
     "ocorrencias": 32,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/29junho-sao-pedro-e-sao-paulo-apostolos.html"
@@ -117,12 +122,7 @@
   {
     "tag": "l outubro",
     "ocorrencias": 31,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/santos-sergio-baco-marcelo-e-apuleio.html"
-  },
-  {
-    "tag": "l pentecostes",
-    "ocorrencias": 31,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/xix-domingo-depois-de-pentecostes.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/08-out-s-brigida-viuva.html"
   },
   {
     "tag": "p mártires",
@@ -190,6 +190,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/paolo-vi-beato-o-livro-mais-polemico-de.html"
   },
   {
+    "tag": "l 2025",
+    "ocorrencias": 19,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
+  },
+  {
     "tag": "Defesa da fé; da doutrina e da unidade da Igreja",
     "ocorrencias": 19,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/12/commonitorio-ou-memorial-de-sao-vicente.html"
@@ -205,19 +210,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/06/carta-do-arcebispo-carlo-maria-vigano.html"
   },
   {
-    "tag": "l 2025",
+    "tag": "2022 Carvalho",
     "ocorrencias": 17,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/o-amor-verdadeiro-como-desejo-da.html"
   },
   {
     "tag": "c doutores",
     "ocorrencias": 16,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/30-set-s-jeronimo-presbitero-confessor.html"
-  },
-  {
-    "tag": "2022 Carvalho",
-    "ocorrencias": 16,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/o-verdadeiro-catolicismo-nao-e-uma.html"
   },
   {
     "tag": "l páscoa",
@@ -355,14 +355,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/11/o-bispo-stowe-e-conhecido-por-seu.html"
   },
   {
+    "tag": "c não virgens não mártires 2",
+    "ocorrencias": 7,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/08-out-s-brigida-viuva.html"
+  },
+  {
     "tag": "c virgens martires 1",
     "ocorrencias": 7,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/23-set-s-tecla-virgem-e-martir.html"
-  },
-  {
-    "tag": "c não virgens não mártires 2",
-    "ocorrencias": 7,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/21-ago-s-joana-francisca-fremiot-de.html"
   },
   {
     "tag": "Lc 1",
@@ -1428,6 +1428,21 @@
     "tag": "1910 Joaquim Nabuco",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/lideres-macons-no-brasil-seculo-xix.html"
+  },
+  {
+    "tag": "e Mt 13 44",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/08-out-s-brigida-viuva.html"
+  },
+  {
+    "tag": "e Jo 4 46",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/xx-domingo-depois-de-pentecostes.html"
+  },
+  {
+    "tag": "e Mt 16 13",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/7-out-sao-marcos-i-papa-e-confessor.html"
   },
   {
     "tag": "e Lc 12 35",
@@ -3153,11 +3168,6 @@
     "tag": "Lc 12 1",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/9-de-outubro-s-dionisio-bispo-s-rustico.html"
-  },
-  {
-    "tag": "S. Brígida",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/08-out-s-brigida-viuva.html"
   },
   {
     "tag": "l 2026",
