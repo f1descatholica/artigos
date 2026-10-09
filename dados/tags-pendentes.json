@@ -52,7 +52,7 @@
   {
     "tag": "p confessores",
     "ocorrencias": 35,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/4-out-s-francisco-de-assis-confessor.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-joao-leonardi-confessor.html"
   },
   {
     "tag": "Ecumenismo-Fraternidade universal",
@@ -122,7 +122,7 @@
   {
     "tag": "l outubro",
     "ocorrencias": 31,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/08-out-s-brigida-viuva.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-joao-leonardi-confessor.html"
   },
   {
     "tag": "p mártires",
@@ -185,14 +185,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-ago-s-lourenco-justiniani-bispo-e.html"
   },
   {
+    "tag": "l 2025",
+    "ocorrencias": 20,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
+  },
+  {
     "tag": "1978 Papa Paulo VI",
     "ocorrencias": 20,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/paolo-vi-beato-o-livro-mais-polemico-de.html"
-  },
-  {
-    "tag": "l 2025",
-    "ocorrencias": 19,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
   },
   {
     "tag": "Defesa da fé; da doutrina e da unidade da Igreja",
@@ -545,11 +545,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/01-junho-domingo-depois-da-ascensao.html"
   },
   {
-    "tag": "Lc 10",
-    "ocorrencias": 4,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/04/25-de-abril-sao-marcos-evangelista.html"
-  },
-  {
     "tag": "Mt 11",
     "ocorrencias": 4,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-24-fev-s-matias.html"
@@ -698,6 +693,11 @@
     "tag": "c um mártir 1 tempo pascal",
     "ocorrencias": 3,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/04/28-abril-s-vital-martir-coragem-do.html"
+  },
+  {
+    "tag": "Lc 10",
+    "ocorrencias": 3,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/04/25-de-abril-sao-marcos-evangelista.html"
   },
   {
     "tag": "Jo 10",
@@ -1428,6 +1428,11 @@
     "tag": "1910 Joaquim Nabuco",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/lideres-macons-no-brasil-seculo-xix.html"
+  },
+  {
+    "tag": "e Lc 10 1",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-joao-leonardi-confessor.html"
   },
   {
     "tag": "e Mt 13 44",
@@ -3153,16 +3158,6 @@
     "tag": "Stanislas Lyonnet",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/biografia-do-monsenhor-francesco.html"
-  },
-  {
-    "tag": "Cor II-4",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/09-out-s-joao-leonardi-confessor.html"
-  },
-  {
-    "tag": "S. João Leonardi",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/09-out-s-joao-leonardi-confessor.html"
   },
   {
     "tag": "Lc 12 1",
