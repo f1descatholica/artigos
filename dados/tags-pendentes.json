@@ -122,12 +122,12 @@
   {
     "tag": "l outubro",
     "ocorrencias": 31,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-joao-leonardi-confessor.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/10-out-s-francisco-de-borgia-confessor.html"
   },
   {
     "tag": "p mártires",
     "ocorrencias": 31,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/08/17-agosto-oitava-de-sao-lourenco.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-dionisio-bispo-s-rustico-e-s.html"
   },
   {
     "tag": "l dezembro",
@@ -175,6 +175,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/06/padre-jose-eduardo-e-o-dilema-da.html"
   },
   {
+    "tag": "l 2025",
+    "ocorrencias": 23,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-dionisio-bispo-s-rustico-e-s_01550483856.html"
+  },
+  {
     "tag": "c papas",
     "ocorrencias": 21,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/7-out-sao-marcos-i-papa-e-confessor.html"
@@ -183,11 +188,6 @@
     "tag": "p bispos",
     "ocorrencias": 20,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-ago-s-lourenco-justiniani-bispo-e.html"
-  },
-  {
-    "tag": "l 2025",
-    "ocorrencias": 20,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
   },
   {
     "tag": "1978 Papa Paulo VI",
@@ -285,6 +285,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/12/25-dez-natividade-de-nosso-senhor-jesus.html"
   },
   {
+    "tag": "c abades",
+    "ocorrencias": 10,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/10-out-s-francisco-de-borgia-confessor.html"
+  },
+  {
     "tag": "c vários mártires 3",
     "ocorrencias": 10,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/ss-placido-e-companheiros-martires-5-out.html"
@@ -293,11 +298,6 @@
     "tag": "c confessores pontifices 1",
     "ocorrencias": 10,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/01-out-s-remigio-bispo-e-confessor.html"
-  },
-  {
-    "tag": "c abades",
-    "ocorrencias": 10,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/01-setembro-santo-egidio-abade-santa.html"
   },
   {
     "tag": "c virgens 3",
@@ -655,6 +655,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/teoria-da-hierarquia-das-verdades.html"
   },
   {
+    "tag": "e Lc 12 1",
+    "ocorrencias": 3,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-dionisio-bispo-s-rustico-e-s.html"
+  },
+  {
     "tag": "1938 Faustina Kowalska",
     "ocorrencias": 3,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/da-condenacao-reabilitacao-os.html"
@@ -848,11 +853,6 @@
     "tag": "1999 Dom Hélder Câmara",
     "ocorrencias": 3,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/09/concilio-vaticano-ii-conexoes-com.html"
-  },
-  {
-    "tag": "e Lc 12 1",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/ss-placido-e-companheiros-martires-5-out.html"
   },
   {
     "tag": "e Mt 22 1",
@@ -1428,6 +1428,11 @@
     "tag": "1910 Joaquim Nabuco",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/lideres-macons-no-brasil-seculo-xix.html"
+  },
+  {
+    "tag": "Mt 19 27",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/10-out-s-francisco-de-borgia-confessor.html"
   },
   {
     "tag": "e Lc 10 1",
@@ -3140,11 +3145,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/12-out-festa-de-nossa-senhora-aparecida.html"
   },
   {
-    "tag": "Mt 19 27",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/10-out-s-francisco-de-borgia-confessor.html"
-  },
-  {
     "tag": "Maximilian Zerwick",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/biografia-do-monsenhor-francesco.html"
@@ -3158,11 +3158,6 @@
     "tag": "Stanislas Lyonnet",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/biografia-do-monsenhor-francesco.html"
-  },
-  {
-    "tag": "Lc 12 1",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/9-de-outubro-s-dionisio-bispo-s-rustico.html"
   },
   {
     "tag": "l 2026",
