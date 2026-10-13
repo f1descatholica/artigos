@@ -125,14 +125,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-dionisio-bispo-s-rustico-e-s.html"
   },
   {
-    "tag": "l outubro",
-    "ocorrencias": 30,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/12-out-festa-de-nossa-senhora-aparecida.html"
-  },
-  {
     "tag": "l dezembro",
     "ocorrencias": 30,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/liturgia-diaria-31-dez-vii-dia-da.html"
+  },
+  {
+    "tag": "l outubro",
+    "ocorrencias": 29,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/13-out-s-eduardo-rei-e-confessor.html"
   },
   {
     "tag": "l novembro",
@@ -155,14 +155,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/paolo-vi-beato-o-livro-mais-polemico-de.html"
   },
   {
+    "tag": "l 2025",
+    "ocorrencias": 27,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
+  },
+  {
     "tag": "l quaresma",
     "ocorrencias": 27,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/04/sabado-da-4-semana-da-quaresma.html"
-  },
-  {
-    "tag": "l 2025",
-    "ocorrencias": 26,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-dionisio-bispo-s-rustico-e-s_01550483856.html"
   },
   {
     "tag": "l abril",
@@ -181,7 +181,7 @@
   },
   {
     "tag": "c papas",
-    "ocorrencias": 21,
+    "ocorrencias": 20,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/7-out-sao-marcos-i-papa-e-confessor.html"
   },
   {
@@ -225,6 +225,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/05/litanias-menores-dias-de-rogacoes.html"
   },
   {
+    "tag": "c confessores não bispos 1",
+    "ocorrencias": 15,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/13-out-s-eduardo-rei-e-confessor.html"
+  },
+  {
     "tag": "1914 Papa Pio X",
     "ocorrencias": 15,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/da-condenacao-reabilitacao-os.html"
@@ -233,11 +238,6 @@
     "tag": "1903 Papa Leão XIII",
     "ocorrencias": 15,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/03/em-meio-as-solicitudes-carta-enciclica.html"
-  },
-  {
-    "tag": "c confessores não bispos 1",
-    "ocorrencias": 14,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/06-out-s-bruno-confessor.html"
   },
   {
     "tag": "l paixão",
@@ -300,11 +300,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/01-out-s-remigio-bispo-e-confessor.html"
   },
   {
-    "tag": "c virgens 3",
-    "ocorrencias": 10,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/30-de-ago-santa-rosa-de-lima-virgem.html"
-  },
-  {
     "tag": "p doutores",
     "ocorrencias": 10,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/28-ago-s-agostinho-bispo-confessor-e.html"
@@ -318,6 +313,11 @@
     "tag": "1995 Plinio Corrêa de Oliveira",
     "ocorrencias": 10,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/02/os-arautos-do-evangelho-origens-relacao.html"
+  },
+  {
+    "tag": "c virgens 3",
+    "ocorrencias": 9,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/30-de-ago-santa-rosa-de-lima-virgem.html"
   },
   {
     "tag": "1970 Sociedade de São Pio X",
@@ -3118,16 +3118,6 @@
     "tag": "S. Hedviges",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/16-out-s-hedviges-virgem.html"
-  },
-  {
-    "tag": "S. Teresa",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/15-out-s-teresa-virgem.html"
-  },
-  {
-    "tag": "S. Calisto I",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/14-out-s-calisto-i-papa-e-martir.html"
   },
   {
     "tag": "Seminário Santíssima Trindade",
