@@ -125,14 +125,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-dionisio-bispo-s-rustico-e-s.html"
   },
   {
+    "tag": "l outubro",
+    "ocorrencias": 30,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/14-out-s-calisto-i-papa-e-martir.html"
+  },
+  {
     "tag": "l dezembro",
     "ocorrencias": 30,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/liturgia-diaria-31-dez-vii-dia-da.html"
-  },
-  {
-    "tag": "l outubro",
-    "ocorrencias": 29,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/13-out-s-eduardo-rei-e-confessor.html"
   },
   {
     "tag": "l novembro",
@@ -181,8 +181,8 @@
   },
   {
     "tag": "c papas",
-    "ocorrencias": 20,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/7-out-sao-marcos-i-papa-e-confessor.html"
+    "ocorrencias": 21,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/14-out-s-calisto-i-papa-e-martir.html"
   },
   {
     "tag": "p bispos",
@@ -1428,6 +1428,11 @@
     "tag": "1910 Joaquim Nabuco",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/lideres-macons-no-brasil-seculo-xix.html"
+  },
+  {
+    "tag": "S. Calisto I",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/14-out-s-calisto-i-papa-e-martir.html"
   },
   {
     "tag": "e Lc 2 43",
