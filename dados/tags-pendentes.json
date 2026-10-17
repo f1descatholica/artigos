@@ -127,17 +127,17 @@
   {
     "tag": "l outubro",
     "ocorrencias": 30,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/16-out-s-hedviges-virgem.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/17-out-s-margarida-maria-alacoque-virgem.html"
+  },
+  {
+    "tag": "l 2025",
+    "ocorrencias": 30,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
   },
   {
     "tag": "l dezembro",
     "ocorrencias": 30,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/liturgia-diaria-31-dez-vii-dia-da.html"
-  },
-  {
-    "tag": "l 2025",
-    "ocorrencias": 29,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
   },
   {
     "tag": "l novembro",
@@ -335,11 +335,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/a-defesa-da-igreja-catolica-frente.html"
   },
   {
-    "tag": "p santos",
-    "ocorrencias": 8,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/02-out-os-santos-anjos-da-guarda.html"
-  },
-  {
     "tag": "l natividade",
     "ocorrencias": 8,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/01/santissimo-nome-de-jesus.html"
@@ -358,6 +353,11 @@
     "tag": "c não virgens não mártires 2",
     "ocorrencias": 7,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/16-out-s-hedviges-virgem.html"
+  },
+  {
+    "tag": "p santos",
+    "ocorrencias": 7,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/02-out-os-santos-anjos-da-guarda.html"
   },
   {
     "tag": "c virgens martires 1",
@@ -433,6 +433,11 @@
     "tag": "2021  Motu Proprio Traditionis Custodes",
     "ocorrencias": 6,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/a-crise-da-traditionis-custodes-e.html"
+  },
+  {
+    "tag": "p virgens",
+    "ocorrencias": 5,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/17-out-s-margarida-maria-alacoque-virgem.html"
   },
   {
     "tag": "e Lc 1 26",
@@ -513,11 +518,6 @@
     "tag": "Alemanha",
     "ocorrencias": 5,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/11/aceitando-pessoas-transgenero-e-pessoas.html"
-  },
-  {
-    "tag": "p virgens",
-    "ocorrencias": 4,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/santa-teresa-do-menino-jesus-virgem.html"
   },
   {
     "tag": "c vigílias dos apóstolos",
@@ -695,11 +695,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/04/28-abril-s-vital-martir-coragem-do.html"
   },
   {
-    "tag": "Lc 10",
-    "ocorrencias": 3,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/04/25-de-abril-sao-marcos-evangelista.html"
-  },
-  {
     "tag": "Jo 10",
     "ocorrencias": 3,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/04/quarta-feira-da-semana-da-paixao.html"
@@ -855,6 +850,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/09/concilio-vaticano-ii-conexoes-com.html"
   },
   {
+    "tag": "e Mt 11 25",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/17-out-s-margarida-maria-alacoque-virgem.html"
+  },
+  {
     "tag": "e Mt 13 44",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/16-out-s-hedviges-virgem.html"
@@ -935,6 +935,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/04/30-abril-s-catarina-de-sena-virgem.html"
   },
   {
+    "tag": "Lc 10",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/04/25-de-abril-sao-marcos-evangelista.html"
+  },
+  {
     "tag": "Eclo 24 14",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/missa-comum-das-festas-da-bem.html"
@@ -963,11 +968,6 @@
     "tag": "Mt 15",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/26-mar-quarta-feira-da-3-semana-da.html"
-  },
-  {
-    "tag": "Tim I-5",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/03/8-mar-francisca-romana-viuva.html"
   },
   {
     "tag": "Lc 11",
@@ -1295,11 +1295,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/sobre-revolucao-liturgica-e-as-reformas.html"
   },
   {
-    "tag": "Mt 13",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-09-fev-v-domingo-depois.html"
-  },
-  {
     "tag": "Bispo Charles J. McGuire",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/a-morte-do-bispo-dolan-e-transicao-na.html"
@@ -1478,11 +1473,6 @@
     "tag": "Movimento Mariawitas",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/da-condenacao-reabilitacao-os.html"
-  },
-  {
-    "tag": "e Mt 11 25",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/4-out-s-francisco-de-assis-confessor.html"
   },
   {
     "tag": "e Mt 25 14",
@@ -2183,11 +2173,6 @@
     "tag": "Reis IV-5",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/24-mar-segunda-feira-da-3-semana-da.html"
-  },
-  {
-    "tag": "S. Francisca Romana",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/03/8-mar-francisca-romana-viuva.html"
   },
   {
     "tag": "Ef 5",
@@ -2965,11 +2950,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/livro-infiltracao-o-complo-para.html"
   },
   {
-    "tag": "S. Isabel da Hungria",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/19-nov-s-isabel-da-hungria-viuva.html"
-  },
-  {
     "tag": "S. Gregório Taumaturgo",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/17-nov-s-gregorio-taumaturgo-bispo-e.html"
@@ -3103,16 +3083,6 @@
     "tag": "Instituto Mater Boni Consilii",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/artigos-instituto-mater-boni-consilii.html"
-  },
-  {
-    "tag": "Cor II-8",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/18-out-s-lucas-evangelista.html"
-  },
-  {
-    "tag": "S. Lucas",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/18-out-s-lucas-evangelista.html"
   },
   {
     "tag": "Gaetano Masciullo",
@@ -3528,6 +3498,11 @@
     "tag": "Joseph Bevan",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/os-lideres-da-igreja-catolica-nao-estao.html"
+  },
+  {
+    "tag": "Mt 13",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-09-fev-v-domingo-depois.html"
   },
   {
     "tag": "Coalizão para Sacerdotes Cancelados",
@@ -4288,11 +4263,6 @@
     "tag": "Padre Nicola Bux",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/08/reforma-liturgica-como-ir-missa-e-nao.html"
-  },
-  {
-    "tag": "Prov 31",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/missa-comum-nao-virgens-nao-martires-2.html"
   },
   {
     "tag": "Cor II-1",
