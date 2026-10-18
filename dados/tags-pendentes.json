@@ -50,11 +50,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/02/saturday-of-lenten-ember-days.html"
   },
   {
-    "tag": "p confessores",
-    "ocorrencias": 35,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-joao-leonardi-confessor.html"
-  },
-  {
     "tag": "Ecumenismo-Fraternidade universal",
     "ocorrencias": 35,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/07/a-nova-teologia-que-moldou-o-vaticano.html"
@@ -63,6 +58,11 @@
     "tag": "l jan",
     "ocorrencias": 35,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/01/31-jan-iv-sunday-after-epiphany.html"
+  },
+  {
+    "tag": "p confessores",
+    "ocorrencias": 34,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-joao-leonardi-confessor.html"
   },
   {
     "tag": "l setembro",
@@ -92,7 +92,12 @@
   {
     "tag": "l pentecostes",
     "ocorrencias": 32,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/xx-domingo-depois-de-pentecostes.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/11/xxi-domingo-depois-de-pentecostes.html"
+  },
+  {
+    "tag": "l 2025",
+    "ocorrencias": 32,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
   },
   {
     "tag": "l junho",
@@ -127,12 +132,7 @@
   {
     "tag": "l outubro",
     "ocorrencias": 30,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/17-out-s-margarida-maria-alacoque-virgem.html"
-  },
-  {
-    "tag": "l 2025",
-    "ocorrencias": 30,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/18-out-s-lucas-evangelista.html"
   },
   {
     "tag": "l dezembro",
@@ -335,6 +335,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/a-defesa-da-igreja-catolica-frente.html"
   },
   {
+    "tag": "p santos",
+    "ocorrencias": 8,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/18-out-s-lucas-evangelista.html"
+  },
+  {
     "tag": "l natividade",
     "ocorrencias": 8,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/01/santissimo-nome-de-jesus.html"
@@ -353,11 +358,6 @@
     "tag": "c não virgens não mártires 2",
     "ocorrencias": 7,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/16-out-s-hedviges-virgem.html"
-  },
-  {
-    "tag": "p santos",
-    "ocorrencias": 7,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/02-out-os-santos-anjos-da-guarda.html"
   },
   {
     "tag": "c virgens martires 1",
@@ -850,6 +850,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/09/concilio-vaticano-ii-conexoes-com.html"
   },
   {
+    "tag": "e Lc 10 1",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/18-out-s-lucas-evangelista.html"
+  },
+  {
     "tag": "e Mt 11 25",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/17-out-s-margarida-maria-alacoque-virgem.html"
@@ -1170,11 +1175,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/tabela-bispos-sedevacantistas-em.html"
   },
   {
-    "tag": "Lc 12 32",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/19-out-s-pedro-de-alcantara-confessor.html"
-  },
-  {
     "tag": "1983 Sociedade de São Pio V",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/artigos-e-leituras-sociedade-de-sao-pio.html"
@@ -1453,11 +1453,6 @@
     "tag": "e Jo 4 46",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/xx-domingo-depois-de-pentecostes.html"
-  },
-  {
-    "tag": "e Lc 10 1",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-joao-leonardi-confessor.html"
   },
   {
     "tag": "e Mt 16 13",
@@ -4281,6 +4276,11 @@
   },
   {
     "tag": "l Justus ut palma florébit",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/missa-comum-confessores-nao-bispos-2.html"
+  },
+  {
+    "tag": "Lc 12 32",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/missa-comum-confessores-nao-bispos-2.html"
   },
