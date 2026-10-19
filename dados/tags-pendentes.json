@@ -50,6 +50,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/02/saturday-of-lenten-ember-days.html"
   },
   {
+    "tag": "p confessores",
+    "ocorrencias": 35,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/19-out-s-pedro-de-alcantara-confessor.html"
+  },
+  {
     "tag": "Ecumenismo-Fraternidade universal",
     "ocorrencias": 35,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/07/a-nova-teologia-que-moldou-o-vaticano.html"
@@ -58,11 +63,6 @@
     "tag": "l jan",
     "ocorrencias": 35,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/01/31-jan-iv-sunday-after-epiphany.html"
-  },
-  {
-    "tag": "p confessores",
-    "ocorrencias": 34,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-joao-leonardi-confessor.html"
   },
   {
     "tag": "l setembro",
@@ -125,14 +125,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-aug-st-laurence-justinian-bishop-and.html"
   },
   {
+    "tag": "l outubro",
+    "ocorrencias": 31,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/19-out-s-pedro-de-alcantara-confessor.html"
+  },
+  {
     "tag": "p mártires",
     "ocorrencias": 31,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-dionisio-bispo-s-rustico-e-s.html"
-  },
-  {
-    "tag": "l outubro",
-    "ocorrencias": 30,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/18-out-s-lucas-evangelista.html"
   },
   {
     "tag": "l dezembro",
@@ -1433,6 +1433,11 @@
     "tag": "1910 Joaquim Nabuco",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/lideres-macons-no-brasil-seculo-xix.html"
+  },
+  {
+    "tag": "e Lc 12 32",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/19-out-s-pedro-de-alcantara-confessor.html"
   },
   {
     "tag": "S. Teresa",
