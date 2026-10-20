@@ -52,7 +52,7 @@
   {
     "tag": "p confessores",
     "ocorrencias": 35,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/19-out-s-pedro-de-alcantara-confessor.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/20-out-s-joao-cancio-confessor.html"
   },
   {
     "tag": "Ecumenismo-Fraternidade universal",
@@ -68,6 +68,11 @@
     "tag": "l setembro",
     "ocorrencias": 34,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/30-set-s-jeronimo-presbitero-confessor.html"
+  },
+  {
+    "tag": "l 2025",
+    "ocorrencias": 34,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
   },
   {
     "tag": "l Nossa Senhora",
@@ -95,11 +100,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/11/xxi-domingo-depois-de-pentecostes.html"
   },
   {
-    "tag": "l 2025",
-    "ocorrencias": 32,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
-  },
-  {
     "tag": "l junho",
     "ocorrencias": 32,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/29junho-sao-pedro-e-sao-paulo-apostolos.html"
@@ -125,14 +125,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-aug-st-laurence-justinian-bishop-and.html"
   },
   {
-    "tag": "l outubro",
-    "ocorrencias": 31,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/19-out-s-pedro-de-alcantara-confessor.html"
-  },
-  {
     "tag": "p mártires",
     "ocorrencias": 31,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-dionisio-bispo-s-rustico-e-s.html"
+  },
+  {
+    "tag": "l outubro",
+    "ocorrencias": 30,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/20-out-s-joao-cancio-confessor.html"
   },
   {
     "tag": "l dezembro",
@@ -290,11 +290,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/15-out-s-teresa-virgem.html"
   },
   {
-    "tag": "c abades",
-    "ocorrencias": 10,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/10-out-s-francisco-de-borgia-confessor.html"
-  },
-  {
     "tag": "c vários mártires 3",
     "ocorrencias": 10,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/ss-placido-e-companheiros-martires-5-out.html"
@@ -318,6 +313,11 @@
     "tag": "1995 Plinio Corrêa de Oliveira",
     "ocorrencias": 10,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/02/os-arautos-do-evangelho-origens-relacao.html"
+  },
+  {
+    "tag": "c abades",
+    "ocorrencias": 9,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/10-out-s-francisco-de-borgia-confessor.html"
   },
   {
     "tag": "1970 Sociedade de São Pio X",
@@ -850,6 +850,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/09/concilio-vaticano-ii-conexoes-com.html"
   },
   {
+    "tag": "Lc 12",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/20-out-s-joao-cancio-confessor.html"
+  },
+  {
     "tag": "e Lc 10 1",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/18-out-s-lucas-evangelista.html"
@@ -868,11 +873,6 @@
     "tag": "Positivismo",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/a-nova-era-e-dissolucao-do-cristianismo.html"
-  },
-  {
-    "tag": "e Mt 19 27",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/10-out-s-francisco-de-borgia-confessor.html"
   },
   {
     "tag": "e Mt 22 1",
@@ -1078,11 +1078,6 @@
     "tag": "S. Estevão",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/01/liturgia-diaria-02-jan-oitava-de-santo.html"
-  },
-  {
-    "tag": "Lc 12",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/liturgia-diaria-31-dez-vii-dia-da.html"
   },
   {
     "tag": "S. Silvestre",
@@ -1435,6 +1430,16 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/lideres-macons-no-brasil-seculo-xix.html"
   },
   {
+    "tag": "S. João Câncio",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/20-out-s-joao-cancio-confessor.html"
+  },
+  {
+    "tag": "Tg 2",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/20-out-s-joao-cancio-confessor.html"
+  },
+  {
     "tag": "e Lc 12 32",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/19-out-s-pedro-de-alcantara-confessor.html"
@@ -1458,6 +1463,11 @@
     "tag": "e Jo 4 46",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/xx-domingo-depois-de-pentecostes.html"
+  },
+  {
+    "tag": "e Mt 19 27",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/10-out-s-francisco-de-borgia-confessor.html"
   },
   {
     "tag": "e Mt 16 13",
@@ -3068,16 +3078,6 @@
     "tag": "Padre Jaime Mercant Simó",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/a-critica-de-monsenhor-jaime-mercant.html"
-  },
-  {
-    "tag": "S. João Câncio",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/20-out-s-joao-cancio-confessor.html"
-  },
-  {
-    "tag": "Tg 2",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/20-out-s-joao-cancio-confessor.html"
   },
   {
     "tag": "Instituto Mater Boni Consilii",
