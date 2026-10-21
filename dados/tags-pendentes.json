@@ -125,14 +125,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-aug-st-laurence-justinian-bishop-and.html"
   },
   {
+    "tag": "l outubro",
+    "ocorrencias": 31,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/21-out-s-hilario-abade.html"
+  },
+  {
     "tag": "p mártires",
     "ocorrencias": 31,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-dionisio-bispo-s-rustico-e-s.html"
-  },
-  {
-    "tag": "l outubro",
-    "ocorrencias": 30,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/20-out-s-joao-cancio-confessor.html"
   },
   {
     "tag": "l dezembro",
@@ -285,6 +285,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/12/25-dez-natividade-de-nosso-senhor-jesus.html"
   },
   {
+    "tag": "c abades",
+    "ocorrencias": 10,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/21-out-s-hilario-abade.html"
+  },
+  {
     "tag": "c virgens 3",
     "ocorrencias": 10,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/15-out-s-teresa-virgem.html"
@@ -313,11 +318,6 @@
     "tag": "1995 Plinio Corrêa de Oliveira",
     "ocorrencias": 10,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/02/os-arautos-do-evangelho-origens-relacao.html"
-  },
-  {
-    "tag": "c abades",
-    "ocorrencias": 9,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/10-out-s-francisco-de-borgia-confessor.html"
   },
   {
     "tag": "1970 Sociedade de São Pio X",
@@ -848,6 +848,11 @@
     "tag": "1999 Dom Hélder Câmara",
     "ocorrencias": 3,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/09/concilio-vaticano-ii-conexoes-com.html"
+  },
+  {
+    "tag": "e Mt 19 27",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/21-out-s-hilario-abade.html"
   },
   {
     "tag": "Lc 12",
@@ -1463,11 +1468,6 @@
     "tag": "e Jo 4 46",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/xx-domingo-depois-de-pentecostes.html"
-  },
-  {
-    "tag": "e Mt 19 27",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/10-out-s-francisco-de-borgia-confessor.html"
   },
   {
     "tag": "e Mt 16 13",
