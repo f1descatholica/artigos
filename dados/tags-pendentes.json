@@ -40,14 +40,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/31-julho-s-inacio-de-loiola-confessor.html"
   },
   {
+    "tag": "l 2025",
+    "ocorrencias": 38,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
+  },
+  {
     "tag": "l fevereiro",
     "ocorrencias": 37,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/liturgia-diaria-15-mar-sabado-das.html"
-  },
-  {
-    "tag": "l 2025",
-    "ocorrencias": 36,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
   },
   {
     "tag": "l feb",
@@ -95,9 +95,9 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/october-31st-vigil-of-all-saints.html"
   },
   {
-    "tag": "l pentecostes",
+    "tag": "l outubro",
     "ocorrencias": 32,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/11/xxi-domingo-depois-de-pentecostes.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/evaristo-papa-e-martir-26-out.html"
   },
   {
     "tag": "l junho",
@@ -125,14 +125,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-aug-st-laurence-justinian-bishop-and.html"
   },
   {
-    "tag": "l outubro",
-    "ocorrencias": 31,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/26-out-festa-de-cristo-rei.html"
-  },
-  {
     "tag": "p mártires",
     "ocorrencias": 31,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/09-out-s-dionisio-bispo-s-rustico-e-s.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/25-out-s-crisanto-e-s-daria-martires.html"
+  },
+  {
+    "tag": "l pentecostes",
+    "ocorrencias": 31,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/11/xxi-domingo-depois-de-pentecostes.html"
   },
   {
     "tag": "l dezembro",
@@ -181,8 +181,8 @@
   },
   {
     "tag": "c papas",
-    "ocorrencias": 21,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/14-out-s-calisto-i-papa-e-martir.html"
+    "ocorrencias": 22,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/evaristo-papa-e-martir-26-out.html"
   },
   {
     "tag": "p bispos",
@@ -850,6 +850,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/09/concilio-vaticano-ii-conexoes-com.html"
   },
   {
+    "tag": "l festas",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/26-out-festa-de-cristo-rei.html"
+  },
+  {
     "tag": "e Mt 19 27",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/21-out-s-hilario-abade.html"
@@ -1430,6 +1435,16 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/lideres-macons-no-brasil-seculo-xix.html"
   },
   {
+    "tag": "e Lc 11 47",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/25-out-s-crisanto-e-s-daria-martires.html"
+  },
+  {
+    "tag": "e Jo 18 33",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/26-out-festa-de-cristo-rei.html"
+  },
+  {
     "tag": "e Jo 5 1",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/24-out-s-rafael-arcanjo.html"
@@ -1493,11 +1508,6 @@
     "tag": "e Mt 25 14",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/01-out-s-remigio-bispo-e-confessor.html"
-  },
-  {
-    "tag": "l festas",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/17-set-impressao-dos-estigmas-de-s.html"
   },
   {
     "tag": "Aristóteles",
@@ -3053,11 +3063,6 @@
     "tag": "Congregação dos Filhos do Santíssimo Redentor",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/carta-aberta-aos-bispos-sacerdotes.html"
-  },
-  {
-    "tag": "e Lc 11 47",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/25-out-s-crisanto-e-s-daria-martires.html"
   },
   {
     "tag": "Pierre Jounel",
