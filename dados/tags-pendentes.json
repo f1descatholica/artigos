@@ -41,7 +41,7 @@
   },
   {
     "tag": "l 2025",
-    "ocorrencias": 38,
+    "ocorrencias": 39,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
   },
   {
@@ -77,7 +77,7 @@
   {
     "tag": "l outubro",
     "ocorrencias": 33,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/27-octobris-in-vigilia-s-simao-e-s.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/28-out-s-simao-e-s-judas-tadeu-apostolos.html"
   },
   {
     "tag": "l pentecostes",
@@ -182,7 +182,7 @@
   {
     "tag": "p apóstolos",
     "ocorrencias": 23,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/27-octobris-in-vigilia-s-simao-e-s.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/28-out-s-simao-e-s-judas-tadeu-apostolos.html"
   },
   {
     "tag": "c papas",
@@ -845,6 +845,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/09/concilio-vaticano-ii-conexoes-com.html"
   },
   {
+    "tag": "Jo 15",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/28-out-s-simao-e-s-judas-tadeu-apostolos.html"
+  },
+  {
     "tag": "l festas",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/26-out-festa-de-cristo-rei.html"
@@ -1135,11 +1140,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/07-out-s-florencio-bispo-e-confessor.html"
   },
   {
-    "tag": "Jo 15",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/28-out-s-simao-e-s-judas-tadeu-apostolos.html"
-  },
-  {
     "tag": "Irmão Michael Dimond",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/os-principais-erros-do-sedevacantismo.html"
@@ -1428,6 +1428,16 @@
     "tag": "1910 Joaquim Nabuco",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/lideres-macons-no-brasil-seculo-xix.html"
+  },
+  {
+    "tag": "Ef 4",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/28-out-s-simao-e-s-judas-tadeu-apostolos.html"
+  },
+  {
+    "tag": "S. Simão e S. Judas Tadeu",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/28-out-s-simao-e-s-judas-tadeu-apostolos.html"
   },
   {
     "tag": "e Jo 15 1",
@@ -3043,16 +3053,6 @@
     "tag": "S. Carlos Borromeu",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/04-nov-s-carlos-borromeu-bispo-e.html"
-  },
-  {
-    "tag": "Ef 4",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/28-out-s-simao-e-s-judas-tadeu-apostolos.html"
-  },
-  {
-    "tag": "S. Simão e S. Judas Tadeu",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/28-out-s-simao-e-s-judas-tadeu-apostolos.html"
   },
   {
     "tag": "Padre Egregyi",
