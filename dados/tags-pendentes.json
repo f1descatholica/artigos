@@ -35,14 +35,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/da-redencao-dogmatica-reparacao.html"
   },
   {
+    "tag": "l 2025",
+    "ocorrencias": 40,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
+  },
+  {
     "tag": "l julho",
     "ocorrencias": 40,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/31-julho-s-inacio-de-loiola-confessor.html"
-  },
-  {
-    "tag": "l 2025",
-    "ocorrencias": 39,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
   },
   {
     "tag": "l fevereiro",
@@ -75,11 +75,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/30-set-s-jeronimo-presbitero-confessor.html"
   },
   {
-    "tag": "l outubro",
-    "ocorrencias": 33,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/28-out-s-simao-e-s-judas-tadeu-apostolos.html"
-  },
-  {
     "tag": "l pentecostes",
     "ocorrencias": 33,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/xxii-domingo-depois-de-pentecostes.html"
@@ -103,6 +98,11 @@
     "tag": "l october",
     "ocorrencias": 33,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/october-31st-vigil-of-all-saints.html"
+  },
+  {
+    "tag": "l outubro",
+    "ocorrencias": 32,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/28-out-s-simao-e-s-judas-tadeu-apostolos.html"
   },
   {
     "tag": "l junho",
