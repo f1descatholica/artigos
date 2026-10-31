@@ -75,6 +75,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/30-set-s-jeronimo-presbitero-confessor.html"
   },
   {
+    "tag": "l outubro",
+    "ocorrencias": 33,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/31-out-vigilia-de-todos-os-santos.html"
+  },
+  {
     "tag": "l pentecostes",
     "ocorrencias": 33,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/xxii-domingo-depois-de-pentecostes.html"
@@ -100,9 +105,9 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/october-31st-vigil-of-all-saints.html"
   },
   {
-    "tag": "l outubro",
+    "tag": "p mártires",
     "ocorrencias": 32,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/28-out-s-simao-e-s-judas-tadeu-apostolos.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/4-nov-santos-vital-e-agricola-martires.html"
   },
   {
     "tag": "l junho",
@@ -130,19 +135,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-aug-st-laurence-justinian-bishop-and.html"
   },
   {
-    "tag": "p mártires",
-    "ocorrencias": 31,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/25-out-s-crisanto-e-s-daria-martires.html"
+    "tag": "l novembro",
+    "ocorrencias": 30,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/4-nov-santos-vital-e-agricola-martires.html"
   },
   {
     "tag": "l dezembro",
     "ocorrencias": 30,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/liturgia-diaria-31-dez-vii-dia-da.html"
-  },
-  {
-    "tag": "l novembro",
-    "ocorrencias": 29,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/30-nov-s-andre-apostolo.html"
   },
   {
     "tag": "2020 Padre Anthony Cekada",
@@ -650,6 +650,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/teoria-da-hierarquia-das-verdades.html"
   },
   {
+    "tag": "l festas",
+    "ocorrencias": 3,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/31-out-vigilia-de-todos-os-santos.html"
+  },
+  {
     "tag": "Realeza de Cristo",
     "ocorrencias": 3,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/sob-o-estandarte-de-cristo-rei-lei.html"
@@ -850,14 +855,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/09/concilio-vaticano-ii-conexoes-com.html"
   },
   {
+    "tag": "e Lc 6 17",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/31-out-vigilia-de-todos-os-santos.html"
+  },
+  {
     "tag": "e Mt 16 13",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/evaristo-papa-e-martir-26-out.html"
-  },
-  {
-    "tag": "l festas",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/26-out-festa-de-cristo-rei.html"
   },
   {
     "tag": "e Mt 19 27",
@@ -1430,6 +1435,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/lideres-macons-no-brasil-seculo-xix.html"
   },
   {
+    "tag": "e Mt 16 24",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/4-nov-santos-vital-e-agricola-martires.html"
+  },
+  {
     "tag": "Paulo Kogos",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/sob-o-estandarte-de-cristo-rei-lei.html"
@@ -1518,6 +1528,26 @@
     "tag": "e Mt 25 14",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/01-out-s-remigio-bispo-e-confessor.html"
+  },
+  {
+    "tag": "e Lc 21 9",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/22-set-s-mauricio-e-companheiros.html"
+  },
+  {
+    "tag": "e  Mt 9 9",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/21-set-s-mateus-apostolo-e-evangelista.html"
+  },
+  {
+    "tag": "e Lc 5 27",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/20-set-vigilia-s-mateus.html"
+  },
+  {
+    "tag": "e Jo 19 25",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/19-set-nossa-senhora-de-la-salette.html"
   },
   {
     "tag": "Aristóteles",
