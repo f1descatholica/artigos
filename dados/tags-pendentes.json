@@ -20,14 +20,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/04/wednesday-of-octave-of-easter-net-of.html"
   },
   {
+    "tag": "l 2025",
+    "ocorrencias": 43,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
+  },
+  {
     "tag": "l agosto",
     "ocorrencias": 43,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/08/3108-s-raimundo-nonato-confessor.html"
-  },
-  {
-    "tag": "l 2025",
-    "ocorrencias": 42,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
   },
   {
     "tag": "Igreja pós-conciliar⛈️",
@@ -70,14 +70,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/01/31-jan-iv-sunday-after-epiphany.html"
   },
   {
+    "tag": "l pentecostes",
+    "ocorrencias": 34,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/11/xxiii-domingo-depois-de-pentecostes.html"
+  },
+  {
     "tag": "l setembro",
     "ocorrencias": 34,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/30-set-s-jeronimo-presbitero-confessor.html"
-  },
-  {
-    "tag": "l pentecostes",
-    "ocorrencias": 33,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/11/xxiii-domingo-depois-de-pentecostes.html"
   },
   {
     "tag": "l outubro",
@@ -135,14 +135,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-aug-st-laurence-justinian-bishop-and.html"
   },
   {
-    "tag": "l novembro",
-    "ocorrencias": 30,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/11/03-nov-dia-de-finados.html"
-  },
-  {
     "tag": "l dezembro",
     "ocorrencias": 30,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/liturgia-diaria-31-dez-vii-dia-da.html"
+  },
+  {
+    "tag": "l novembro",
+    "ocorrencias": 29,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/11/03-nov-dia-de-finados.html"
   },
   {
     "tag": "2020 Padre Anthony Cekada",
@@ -190,14 +190,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/evaristo-papa-e-martir-26-out.html"
   },
   {
-    "tag": "p bispos",
-    "ocorrencias": 20,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-ago-s-lourenco-justiniani-bispo-e.html"
-  },
-  {
     "tag": "1978 Papa Paulo VI",
     "ocorrencias": 20,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/paolo-vi-beato-o-livro-mais-polemico-de.html"
+  },
+  {
+    "tag": "p bispos",
+    "ocorrencias": 19,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-ago-s-lourenco-justiniani-bispo-e.html"
   },
   {
     "tag": "Defesa da fé; da doutrina e da unidade da Igreja",
@@ -400,11 +400,6 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/03/padre-elcio-murucci-e-administracao.html"
   },
   {
-    "tag": "Eclo 44",
-    "ocorrencias": 6,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-12-fev-os-sete.html"
-  },
-  {
     "tag": "Lc 1",
     "ocorrencias": 6,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-11-fev-nossa-senhora-de.html"
@@ -473,6 +468,11 @@
     "tag": "Mt 5",
     "ocorrencias": 5,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/7-marco-s-tomas-de-aquino-confessor-e.html"
+  },
+  {
+    "tag": "Eclo 44",
+    "ocorrencias": 5,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-12-fev-os-sete.html"
   },
   {
     "tag": "Lc 2",
@@ -568,11 +568,6 @@
     "tag": "1953 Hilaire Belloc",
     "ocorrencias": 4,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/02/livro-europa-e-fe-faith-1920-de-hilaire.html"
-  },
-  {
-    "tag": "Mt 25",
-    "ocorrencias": 4,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/01/liturgia-diaria-21-jan-santa-ines.html"
   },
   {
     "tag": "Tim II-4",
@@ -743,6 +738,11 @@
     "tag": "c um mártir 2",
     "ocorrencias": 3,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/liturgia-diaria-03-fev.html"
+  },
+  {
+    "tag": "Mt 25",
+    "ocorrencias": 3,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/01/liturgia-diaria-21-jan-santa-ines.html"
   },
   {
     "tag": "2025 Documento Mater Populi Fidelis",
@@ -3098,11 +3098,6 @@
     "tag": "S. Leonardo de limousin",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/06-out-s-leonardo-de-limousin-confessor.html"
-  },
-  {
-    "tag": "S. Carlos Borromeu",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/04-nov-s-carlos-borromeu-bispo-e.html"
   },
   {
     "tag": "Padre Egregyi",
