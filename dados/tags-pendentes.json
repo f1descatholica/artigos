@@ -21,7 +21,7 @@
   },
   {
     "tag": "l 2025",
-    "ocorrencias": 43,
+    "ocorrencias": 44,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/01-set-s-egidio-abade.html"
   },
   {
@@ -142,7 +142,7 @@
   {
     "tag": "l novembro",
     "ocorrencias": 29,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/11/03-nov-dia-de-finados.html"
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/11/04-nov-s-carlos-borromeu-bispo-e.html"
   },
   {
     "tag": "2020 Padre Anthony Cekada",
@@ -190,14 +190,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/evaristo-papa-e-martir-26-out.html"
   },
   {
+    "tag": "p bispos",
+    "ocorrencias": 20,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/11/04-nov-s-carlos-borromeu-bispo-e.html"
+  },
+  {
     "tag": "1978 Papa Paulo VI",
     "ocorrencias": 20,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/paolo-vi-beato-o-livro-mais-polemico-de.html"
-  },
-  {
-    "tag": "p bispos",
-    "ocorrencias": 19,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/09/05-ago-s-lourenco-justiniani-bispo-e.html"
   },
   {
     "tag": "Defesa da fé; da doutrina e da unidade da Igreja",
@@ -855,6 +855,11 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/09/concilio-vaticano-ii-conexoes-com.html"
   },
   {
+    "tag": "e Mt 25 14",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/11/04-nov-s-carlos-borromeu-bispo-e.html"
+  },
+  {
     "tag": "e Lc 6 17",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/31-out-vigilia-de-todos-os-santos.html"
@@ -1143,11 +1148,6 @@
     "tag": "S. Martinho",
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/11-nov-s-martinho-bispo-e-confessor.html"
-  },
-  {
-    "tag": "Santos sem liturgia",
-    "ocorrencias": 2,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/07-out-s-florencio-bispo-e-confessor.html"
   },
   {
     "tag": "Irmão Michael Dimond",
@@ -1543,11 +1543,6 @@
     "tag": "Movimento Mariawitas",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/da-condenacao-reabilitacao-os.html"
-  },
-  {
-    "tag": "e Mt 25 14",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/01-out-s-remigio-bispo-e-confessor.html"
   },
   {
     "tag": "e Lc 21 9",
@@ -3090,14 +3085,14 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/07-out-s-florencio-bispo-e-confessor.html"
   },
   {
+    "tag": "Santos sem liturgia",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/07-out-s-florencio-bispo-e-confessor.html"
+  },
+  {
     "tag": "1958 Francisco Ferrari Billoch",
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/profecia-de-billoch-um-plano-secreto-da.html"
-  },
-  {
-    "tag": "S. Leonardo de limousin",
-    "ocorrencias": 1,
-    "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/06-out-s-leonardo-de-limousin-confessor.html"
   },
   {
     "tag": "Padre Egregyi",
