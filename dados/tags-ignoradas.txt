@@ -1,0 +1,442 @@
+Ap 11  
+Ap 14  
+Ap 21  
+At 1  
+At 10 37  
+At 13 16  
+At 3 13  
+At 6  
+At 8 26  
+At 9  
+c abades  
+c confessores não bispos 1  
+c confessores não bispos 2  
+c confessores pontifices 1  
+c doutores  
+c martir nao virgem 1  
+c mártires tempo pascal 2  
+c não virgens não mártires 2  
+c papas  
+c um mártir 1  
+c um mártir 1 tempo pascal  
+c um mártir 2  
+c um mártir 3 não bispo  
+c um mártir 4  
+c virgens 3  
+c virgens martires 1  
+c virgens mártires 2  
+c vários mártires 1  
+c vários mártires 2  
+c vários mártires 3  
+Co I 11 20  
+Co I-4  
+Col 3  
+Col 3 1  
+Cor I 1  
+Cor I 4 9  
+Cor I 5 7  
+Cor I-1  
+Cor I-13  
+Cor II 10 17  
+Cor II-1  
+Cor II-11  
+Cor II-6  
+Dan 13 1  
+Dan 9 15  
+Dan 9 21  
+Dn 14 28  
+Dn 3  
+Dn 3 25  
+Documentos  
+e  Mt 9 9  
+e Jo 15 1  
+e Jo 15 17  
+e Jo 18 33  
+e Jo 19 25  
+e Jo 4 46  
+e Jo 5 1  
+e Lc 1 26  
+e Lc 10 1  
+e Lc 11 47  
+e Lc 12 1  
+e Lc 12 32  
+e Lc 12 35  
+e Lc 2 21  
+e Lc 2 43  
+e Lc 21 9  
+e Lc 5 27  
+e Lc 6 17  
+e Mt 11 25  
+e Mt 13 44  
+e Mt 16 13  
+e Mt 16 24  
+e Mt 18 1  
+e Mt 19 27  
+e Mt 22 1  
+e Mt 22 15  
+e Mt 25 14  
+e Mt 5 1  
+e Mt 9 18  
+Eclo 15  
+Eclo 24  
+Eclo 24 14  
+Eclo 39 6  
+Eclo 41  
+Eclo 44  
+Eclo 44 16  
+Eclo 45 1  
+Eclo 51  
+Ef 2  
+Ef 5  
+Ex 12 1  
+Exo 32 7  
+Ez 18  
+Ez 36 23  
+Eze 1  
+Fil 2 5  
+Fil 3  
+Fil 4  
+Fl 4 4  
+Ga 4  
+Gal 4 22  
+Gen 27  
+Gen 37  
+Gl 4  
+Gn 49 22  
+Hb 10  
+Heb 11  
+Heb 13  
+Heb 5  
+HeB 7  
+Heb 9 11  
+I Pe 1  
+I Tm 6  
+III Reis 17  
+Is 1 16  
+Is 11  
+Is 19  
+Is 2  
+Is 35  
+Is 40  
+Is 45  
+Is 49 8  
+Is 50 5  
+Is 53 1  
+Is 55  
+Is 58  
+Is 60  
+Is 60 1  
+Is 62 11  
+Is 7  
+Is 7 10  
+Jer 17 13  
+Jer 7  
+Jn 3 1  
+Jo 1 19  
+Jo 1 29  
+Jo 10  
+Jo 10 11  
+Jo 11 1  
+Jo 11 47  
+Jo 12  
+Jo 12 1  
+Jo 12 10  
+Jo 13 1  
+Jo 15  
+Jo 15 1  
+Jo 16 16  
+Jo 18 1  
+Jo 19 25  
+Jo 2  
+Jo 2 13  
+Jo 20  
+Jo 20 1  
+Jo 20 11  
+Jo 20 19  
+Jo 21  
+Jo 21 1  
+Jo 4 5  
+Jo 5  
+Jo 6 1  
+Jo 7 1  
+Jo 7 14  
+Jo 7 32  
+Jo 8 1  
+Jo 8 12  
+Jo 8 21  
+Jo 8 46  
+Jo 9 1  
+Jo I 5 4  
+Jo I-2  
+Jo I-3  
+Jr 11 18  
+Jr 18 18  
+l 2025  
+l 2026  
+l abr  
+l abril  
+l advento  
+l agosto  
+l apr  
+l ascensão  
+l august  
+l cinzas  
+l claret  
+l december  
+l dezembro  
+l domingo  
+l epifania  
+l feb  
+l festas  
+l fevereiro  
+l In medio Ecclesiæ  
+l jan  
+l janeiro  
+l julho  
+l july  
+l junho  
+l Justus ut palma florébit  
+l local  
+l maio  
+l mar  
+l março  
+l may  
+l natividade  
+l Nossa Senhora  
+l november  
+l novembro  
+l october  
+l outubro  
+l paixão  
+l pentecostes  
+l páscoa  
+l quaresma  
+l Sacerdótes Dei  
+l september  
+l setembro  
+l ésimas  
+Lc 1  
+Lc 10  
+Lc 10 1  
+Lc 11  
+Lc 11 27  
+Lc 12  
+Lc 12 32  
+Lc 14  
+Lc 14 26  
+Lc 15  
+Lc 16  
+Lc 18  
+Lc 19  
+Lc 2  
+Lc 21  
+Lc 22 39  
+Lc 24 13  
+Lc 24 36  
+Lc 3  
+Lc 3 21  
+Lc 4  
+Lc 6  
+Lc 6 6  
+Lc 7 36  
+Lc 8  
+Lc 9 1  
+Lv 19  
+Malaq 3  
+Mc 10  
+Mc 14 32  
+Mc 16  
+Mc 16 1  
+Mc 6  
+Missa Roráte - I - Advento  
+Missa Salve - III - purificação/Páscoa  
+Missa salve - IV - pascoa/vigilia pentecostes  
+Missa salve - V - Pentecostes/Advento  
+missa sancti tui  
+Missa Vultum tuum - II - Natal/Purificação  
+Mt 1  
+Mt 1 18  
+Mt 10  
+Mt 10 23  
+Mt 11  
+Mt 12  
+Mt 13  
+Mt 13 44  
+Mt 15  
+Mt 16  
+Mt 17  
+Mt 17 1  
+Mt 18  
+Mt 18 15  
+Mt 19  
+Mt 2  
+Mt 21  
+Mt 22  
+Mt 23  
+Mt 23 1  
+Mt 24  
+Mt 25  
+Mt 25 1  
+Mt 25 14  
+Mt 26 36  
+Mt 28 1  
+Mt 28 16  
+Mt 4  
+Mt 5  
+Mt 5 13  
+Mt 6  
+Mt 8  
+Notícias  
+Num 20 1  
+Orações  
+p abades  
+p alguns lugares  
+p apóstolos  
+p bispos  
+p confessores  
+p doutores  
+p mártires  
+p papas  
+p profetas  
+p santos  
+p virgem e mártir  
+p virgens  
+p vários mártires  
+Pe I 2 1  
+Pe I 2 11  
+Pe I 2 21  
+Pe I 3 18  
+Pe I-1  
+Pe I-5  
+Prov 8  
+Reis III 17 17  
+Reis III 17 8  
+Reis III 3 16  
+Reis III-17  
+Reis IV 4 1  
+Reis IV-5  
+Rm 1  
+Rm 10  
+Rm 12  
+Rm 13  
+Rm 15  
+Rm 8  
+Rom 13  
+S. Alberto Magno  
+S. AMBRÓSIO  
+S. André  
+S. André Avelino  
+S. André Corsini  
+S. Aniceto  
+S. Anselmo  
+S. Antonino  
+S. Antão  
+S. Antônio Maria Claret  
+S. Bento de Núrsia  
+S. Brás  
+S. Calisto I  
+S. Casimiro  
+S. CATARINA DE SENA  
+S. Catarina Labouré  
+S. Cecília  
+S. Cirilo de Alexandria  
+S. Cirilo de Jerusalém  
+S. Cleto e S. Marcelino  
+S. Diogo  
+S. DÂMASO I  
+S. ESCOLÁSTICA  
+S. Estanislau  
+S. Estevão  
+S. Estêvão  
+S. Eusébio  
+S. FABIANO e S. SEBASTIÃO  
+S. Fiel de Sigmaringa  
+S. Florêncio  
+S. Francisco de Sales  
+S. FRANCISCO XAVIER  
+S. Félix de Valois  
+S. Gabriel Arcanjo  
+S. Gabriel da Virgem Dolorosa  
+S. Gertrudes  
+S. Gregório Magno  
+S. Gregório Nazianzeno  
+S. Gregório Taumaturgo  
+S. Hermenegildo  
+S. Hilário  
+S. INÁCIO DE ANTIOQUIA  
+S. Inês  
+S. Isidoro  
+S. Jorge  
+S. Josafá  
+S. JOSÉ  
+S. JOÃO  
+S. JOÃO BOSCO  
+S. João Capistrano  
+S. João Crisóstomo  
+S. João Câncio  
+S. João da cruz  
+S. João da Mata  
+S. João Damasceno  
+S. JOÃO DE BRITO  
+S. João de Deus  
+S. Leão I (magno)  
+S. Luzia  
+S. MARCELO I  
+S. MARCOS  
+S. Martinho  
+S. Martinho I  
+S. MATIAS  
+S. MELQUIADES  
+S. MIGUEL ARCANJO  
+S. Mário e companheiros  
+S. Nereu e S. Aquileu e S. Domitila e S. Pancrácio  
+S. NICOLAU  
+S. Patrício  
+S. PAULO  
+S. PAULO DA CRUZ  
+S. PAULO EREMITA  
+S. PEDRO  
+S. Pedro Canísio  
+S. PEDRO CRISÓLOGO  
+S. Pedro Damião  
+S. Pedro de Verona  
+S. PEDRO NOLASCO  
+S. Policarpo  
+S. Prisca  
+S. quatro coroados  
+S. Raimundo de Penaforte  
+S. ROMUALDO  
+S. Sabas  
+S. Silvestre  
+S. Simeão  
+S. Sotero e S. Caio  
+S. Teresa  
+S. Timóteo  
+S. TITO  
+S. Tomás Becket  
+S. Tomás de Aquino  
+S. TOMÉ  
+S. Valentim  
+S. Vicente de Lérins  
+S. Vicente e S. Anastásio  
+S. Vicente Férrer  
+S. Vital  
+S. Águeda  
+Sab 10 10  
+sab 11  
+Sab 5 1  
+Sab 7  
+Santos sem liturgia  
+Sb 5 1  
+Segunda epístola de São João  
+Tes II-2  
+Tess I-5  
+Tg 1  
+Tg 2  
+Thess I 4 1  
+Tim II 2 8  
+Tim II 4 1  
+Tim II-4  
+Tito 2  
+Tm II 2 8  
+Tt 3  
