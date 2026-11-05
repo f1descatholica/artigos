@@ -31,6 +31,13 @@ ARQUIVO_DICIONARIO = PASTA_DADOS / "dicionario-tags.txt"
 ARQUIVO_SAIDA = PASTA_DADOS / "artigos.json"
 ARQUIVO_PENDENTES = PASTA_DADOS / "tags-pendentes.json"
 ARQUIVO_SEM_TEMA = PASTA_DADOS / "posts-sem-tema.json"
+ARQUIVO_IGNORADAS = PASTA_DADOS / "tags-ignoradas.txt"
+# Tags que comecam com estes prefixos (ja normalizadas) sao ignoradas
+PREFIXOS_IGNORADOS = ("c ", "l ")
+# Citacao biblica: [numeral romano] livro [numeral romano] numero(s) de 1 a 3 digitos
+PADRAO_CITACAO = re.compile(
+    r"^(?:[ivx]+\s+)?[a-zà-ú]{1,6}(?:\s+[ivx]+)?[\s-]+\d{1,3}(?:\s+\d{1,3})*$"
+)
 TAM_MIN_PALAVRA_TITULO = 4   # ignora palavras com menos letras que isso
 QTD_PALAVRAS_TITULO = 5      # quantas palavras mostrar por tag pendente
 
@@ -197,6 +204,40 @@ def carregar_dicionario():
     return dicionario
 
 
+def normalizar_tag(tag):
+    # remove espacos duplicados e ignora maiusculas/minusculas
+    return " ".join(tag.split()).lower()
+
+
+def carregar_ignoradas():
+    """
+    dados/tags-ignoradas.txt: uma tag por linha.
+    Linhas vazias ou comecando com # sao ignoradas.
+    Se o arquivo nao existir, segue normalmente com a lista vazia.
+    """
+    ignoradas = set()
+    if not ARQUIVO_IGNORADAS.exists():
+        print(f"[aviso] lista de tags ignoradas nao encontrada em "
+              f"{ARQUIVO_IGNORADAS}")
+        return ignoradas
+    with open(ARQUIVO_IGNORADAS, encoding="utf-8-sig") as f:
+        for linha in f:
+            linha = linha.strip()
+            if not linha or linha.startswith("#"):
+                continue
+            ignoradas.add(normalizar_tag(linha))
+    return ignoradas
+
+
+def tag_ignorada(tag, ignoradas):
+    t = normalizar_tag(tag)
+    return bool(
+        t in ignoradas
+        or t.startswith(PREFIXOS_IGNORADOS)
+        or PADRAO_CITACAO.match(t)
+    )
+
+
 def palavras_marcantes(titulos):
     # Conta em quantos titulos cada palavra aparece (uma vez por titulo),
     # ignorando palavras curtas e numeros puros.
@@ -210,18 +251,20 @@ def palavras_marcantes(titulos):
     return [p for p, _ in contagem.most_common(QTD_PALAVRAS_TITULO)]
 
 
-def montar_artigos(posts, dicionario):
+def montar_artigos(posts, dicionario, ignoradas):
     artigos_por_tema = {}
     tags_sem_mapeamento = {}
     posts_sem_tema = []
+    ignorados_por_regra = 0
 
     for post in posts:
         temas_do_post = set()
+        post_ignorado = any(tag_ignorada(t, ignoradas) for t in post["tags"])
         for tag in post["tags"]:
             temas = dicionario.get(tag.lower())
             if temas:
                 temas_do_post.update(temas)
-            else:
+            elif not post_ignorado:
                 info = tags_sem_mapeamento.setdefault(tag, {
                     "tag": tag,
                     "ocorrencias": 0,
@@ -232,6 +275,10 @@ def montar_artigos(posts, dicionario):
                 info["titulos"].append(post["titulo"])
 
         if not temas_do_post:
+            if post_ignorado:
+                # post nao tematizavel (tem tag ignorada): fora do aviso
+                ignorados_por_regra += 1
+                continue
             # post sem nenhuma tag reconhecida: nao entra em nenhum tema
             # (registrado so para aviso; o site nao le este arquivo)
             posts_sem_tema.append({
@@ -254,7 +301,7 @@ def montar_artigos(posts, dicionario):
     for info in pendentes:
         info["palavras_titulo"] = palavras_marcantes(info.pop("titulos"))
 
-    return artigos_por_tema, pendentes, posts_sem_tema
+    return artigos_por_tema, pendentes, posts_sem_tema, ignorados_por_regra
 
 
 def main():
@@ -276,7 +323,11 @@ def main():
     dicionario = carregar_dicionario()
     print(f"{len(dicionario)} tags mapeadas no dicionario.")
 
-    artigos_por_tema, pendentes, sem_tema = montar_artigos(posts, dicionario)
+    ignoradas = carregar_ignoradas()
+    print(f"{len(ignoradas)} tags na lista manual de ignoradas.")
+
+    artigos_por_tema, pendentes, sem_tema, n_ignorados = montar_artigos(
+        posts, dicionario, ignoradas)
 
     PASTA_DADOS.mkdir(parents=True, exist_ok=True)
 
@@ -299,6 +350,7 @@ def main():
           f"mapeamento (revisar e adicionar ao dicionario).")
     print(f"Gerado {ARQUIVO_SEM_TEMA}: {len(sem_tema)} posts fora de "
           f"qualquer tema (revisar).")
+    print(f"{n_ignorados} posts ignorados por regra (nao tematizaveis).")
 
 
 if __name__ == "__main__":
