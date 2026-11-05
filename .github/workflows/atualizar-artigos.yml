@@ -29,7 +29,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dados/artigos.json dados/tags-pendentes.json dados/posts-sem-tema.json
+          git add dados/artigos.json dados/tags-pendentes.json dados/posts-sem-tema.json dados/tags-silenciadas.json
           if git diff --cached --quiet; then
             echo "Nada novo hoje."
           else
