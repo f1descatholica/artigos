@@ -13,8 +13,10 @@ rodado manualmente:  python scripts/atualizar_artigos.py
 """
 
 import json
+import re
 import sys
 import time
+from collections import Counter
 import urllib.request
 import urllib.error
 from pathlib import Path
@@ -28,6 +30,9 @@ PASTA_DADOS = Path(__file__).resolve().parent.parent / "dados"
 ARQUIVO_DICIONARIO = PASTA_DADOS / "dicionario-tags.txt"
 ARQUIVO_SAIDA = PASTA_DADOS / "artigos.json"
 ARQUIVO_PENDENTES = PASTA_DADOS / "tags-pendentes.json"
+ARQUIVO_SEM_TEMA = PASTA_DADOS / "posts-sem-tema.json"
+TAM_MIN_PALAVRA_TITULO = 4   # ignora palavras com menos letras que isso
+QTD_PALAVRAS_TITULO = 5      # quantas palavras mostrar por tag pendente
 
 
 def buscar_pagina(start_index):
@@ -192,9 +197,23 @@ def carregar_dicionario():
     return dicionario
 
 
+def palavras_marcantes(titulos):
+    # Conta em quantos titulos cada palavra aparece (uma vez por titulo),
+    # ignorando palavras curtas e numeros puros.
+    contagem = Counter()
+    for titulo in titulos:
+        palavras = set(re.findall(r"\w+", titulo.lower()))
+        contagem.update(
+            p for p in palavras
+            if len(p) >= TAM_MIN_PALAVRA_TITULO and not p.isdigit()
+        )
+    return [p for p, _ in contagem.most_common(QTD_PALAVRAS_TITULO)]
+
+
 def montar_artigos(posts, dicionario):
     artigos_por_tema = {}
     tags_sem_mapeamento = {}
+    posts_sem_tema = []
 
     for post in posts:
         temas_do_post = set()
@@ -207,11 +226,20 @@ def montar_artigos(posts, dicionario):
                     "tag": tag,
                     "ocorrencias": 0,
                     "exemplo_post": post["url"],
+                    "titulos": [],
                 })
                 info["ocorrencias"] += 1
+                info["titulos"].append(post["titulo"])
 
         if not temas_do_post:
             # post sem nenhuma tag reconhecida: nao entra em nenhum tema
+            # (registrado so para aviso; o site nao le este arquivo)
+            posts_sem_tema.append({
+                "titulo": post["titulo"],
+                "url": post["url"],
+                "data": post["data"],
+                "tags": post["tags"],
+            })
             continue
 
         item = {
@@ -222,7 +250,11 @@ def montar_artigos(posts, dicionario):
         for tema_id in temas_do_post:
             artigos_por_tema.setdefault(tema_id, []).append(item)
 
-    return artigos_por_tema, list(tags_sem_mapeamento.values())
+    pendentes = list(tags_sem_mapeamento.values())
+    for info in pendentes:
+        info["palavras_titulo"] = palavras_marcantes(info.pop("titulos"))
+
+    return artigos_por_tema, pendentes, posts_sem_tema
 
 
 def main():
@@ -244,7 +276,7 @@ def main():
     dicionario = carregar_dicionario()
     print(f"{len(dicionario)} tags mapeadas no dicionario.")
 
-    artigos_por_tema, pendentes = montar_artigos(posts, dicionario)
+    artigos_por_tema, pendentes, sem_tema = montar_artigos(posts, dicionario)
 
     PASTA_DADOS.mkdir(parents=True, exist_ok=True)
 
@@ -257,11 +289,16 @@ def main():
             f, ensure_ascii=False, indent=2,
         )
 
+    with open(ARQUIVO_SEM_TEMA, "w", encoding="utf-8") as f:
+        json.dump(sem_tema, f, ensure_ascii=False, indent=2)
+
     total_vinculos = sum(len(v) for v in artigos_por_tema.values())
     print(f"Gerado {ARQUIVO_SAIDA}: {total_vinculos} vinculos post-tema "
           f"em {len(artigos_por_tema)} temas.")
     print(f"Gerado {ARQUIVO_PENDENTES}: {len(pendentes)} tags sem "
           f"mapeamento (revisar e adicionar ao dicionario).")
+    print(f"Gerado {ARQUIVO_SEM_TEMA}: {len(sem_tema)} posts fora de "
+          f"qualquer tema (revisar).")
 
 
 if __name__ == "__main__":
