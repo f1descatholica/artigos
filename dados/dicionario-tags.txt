@@ -293,13 +293,6 @@ Padre Raymond Dulac => lefebvrismo
 1789 Revolução Francesa => liberalismo
 # Livros
 livros => livros
-1991 Ricardo García Villoslada => livros
-1975 Léon de Poncins => livros
-2004 Michael Davies => livros
-1997 Romano Amerio => livros
-2010 Orlando Fedeli => livros
-Atila Sinke Guimarães => livros
-Ralph Wiltgen => livros
 # Maçonaria
 1717 Maçonaria👁 => maconaria
 1884 Encíclica Humanum Genus => maconaria
