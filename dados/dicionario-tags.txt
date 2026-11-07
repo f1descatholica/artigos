@@ -83,6 +83,7 @@ catarismo => catarismo
 1231 Santo Antônio => catarismo
 1221 São Domingos => catarismo
 1226 São Francisco => catarismo
+
 # Comunismo / Progressismo
 1917 Comunismo => comunismo-progressismo
 Marxismo => comunismo-progressismo
@@ -94,6 +95,7 @@ Marxismo => comunismo-progressismo
 1971 Cardeal Antonio Bacci => comunismo-progressismo
 Progressismo => comunismo-progressismo
 Teologia indigenista => comunismo-progressismo
+
 Ativismo social🧠 => comunismo-progressismo
 # Concílio de Trento
 1545 Concílio de Trento => igreja-concilio-de-trento
