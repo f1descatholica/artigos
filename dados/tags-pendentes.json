@@ -12,13 +12,37 @@
     ]
   },
   {
+    "tag": "Estados Unidos",
+    "ocorrencias": 6,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/01/livro-sobre-duas-asas-fe-humilde-e-bom.html",
+    "palavras_titulo": [
+      "bispo",
+      "novak",
+      "michael",
+      "livro",
+      "fundação"
+    ]
+  },
+  {
+    "tag": "Peter Kwasniewski",
+    "ocorrencias": 5,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/a-destronizacao-liturgica-de-cristo-rei.html",
+    "palavras_titulo": [
+      "litúrgica",
+      "cristo",
+      "festas",
+      "destronização",
+      "duas"
+    ]
+  },
+  {
     "tag": "Carlos Nougué",
     "ocorrencias": 5,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/crise-da-fe-na-igreja-sinodal-para-alem.html",
     "palavras_titulo": [
-      "para",
-      "crise",
       "igreja",
+      "crise",
+      "para",
       "verdade",
       "nougué"
     ]
@@ -28,11 +52,11 @@
     "ocorrencias": 5,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/05/a-contradicao-sacramental-na-fsspx-um.html",
     "palavras_titulo": [
-      "princípio",
       "contradição",
-      "fsspx",
       "sacramental",
-      "desvio"
+      "desvio",
+      "cautela",
+      "princípio"
     ]
   },
   {
@@ -41,8 +65,8 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/a-supremacia-de-cristo-rei-versus.html",
     "palavras_titulo": [
       "relativismo",
-      "roberto",
       "livro",
+      "roberto",
       "mattei",
       "homem"
     ]
@@ -54,9 +78,9 @@
     "palavras_titulo": [
       "francisco",
       "cardeal",
-      "laetitia",
-      "doutrina",
-      "matrimónio"
+      "matrimónio",
+      "ruptura",
+      "amoris"
     ]
   },
   {
@@ -65,10 +89,10 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/analisando-defesa-do-cardeal-prevost-ao.html",
     "palavras_titulo": [
       "igreja",
-      "senador",
-      "durbin",
+      "subordinação",
       "leão",
-      "complexidade"
+      "durbin",
+      "aborto"
     ]
   },
   {
@@ -76,11 +100,11 @@
     "ocorrencias": 3,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/as-martires-de-belorado-um-caso-de.html",
     "palavras_titulo": [
-      "conciliar",
-      "igreja",
       "belorado",
+      "igreja",
+      "conciliar",
       "mártires",
-      "eclesiástico"
+      "caso"
     ]
   },
   {
@@ -91,8 +115,20 @@
       "gertrude",
       "great",
       "saint",
-      "morte",
+      "bispo",
       "transição"
+    ]
+  },
+  {
+    "tag": "Marquês de Pombal",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/martires-da-fe-e-da-missao-destruicao.html",
+    "palavras_titulo": [
+      "destruição",
+      "jesuítico",
+      "despotismo",
+      "brasil",
+      "pombalino"
     ]
   },
   {
@@ -101,10 +137,22 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/da-ordem-natural-ao-estado-moderno.html",
     "palavras_titulo": [
       "estado",
-      "natural",
-      "ordem",
+      "hoppe",
       "igreja",
-      "crítica"
+      "crítica",
+      "moderno"
+    ]
+  },
+  {
+    "tag": "Immanuel kant",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/07/kant-o-verdadeiro-pai-da-nouvelle.html",
+    "palavras_titulo": [
+      "kant",
+      "nouvelle",
+      "verdadeiro",
+      "théologie",
+      "oração"
     ]
   },
   {
@@ -113,10 +161,22 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/02/os-arautos-do-evangelho-origens-relacao.html",
     "palavras_titulo": [
       "origens",
-      "evangelho",
-      "arautos",
       "relação",
-      "controvérsias"
+      "controvérsias",
+      "arautos",
+      "evangelho"
+    ]
+  },
+  {
+    "tag": "Francesco Bamonte",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/livro-orientacoes-sobre-o-espiritismo.html",
+    "palavras_titulo": [
+      "espiritismo",
+      "michael",
+      "livro",
+      "orientações",
+      "editora"
     ]
   },
   {
@@ -125,9 +185,9 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/05/lista-das-principais-obras-de-orlando.html",
     "palavras_titulo": [
       "lista",
+      "fedeli",
       "principais",
       "orlando",
-      "fedeli",
       "obras"
     ]
   },
@@ -149,10 +209,22 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/a-teologia-politica-de-leao-xiv-lei.html",
     "palavras_titulo": [
       "leão",
-      "política",
-      "natural",
       "desnaturada",
-      "teologia"
+      "política",
+      "teologia",
+      "natural"
+    ]
+  },
+  {
+    "tag": "Antonio Fogazzaro",
+    "ocorrencias": 2,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/01/segundo-alfredo-saenz-na-obra-la-nave-y.html",
+    "palavras_titulo": [
+      "modernismo",
+      "propulsores",
+      "sáenz",
+      "principais",
+      "segundo"
     ]
   },
   {
@@ -160,11 +232,11 @@
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/livros-revolucao-em-tiara-e-capa-um.html",
     "palavras_titulo": [
-      "livros",
-      "papal",
-      "dossiê",
       "capa",
-      "papas"
+      "livros",
+      "dossiê",
+      "papal",
+      "tiara"
     ]
   },
   {
@@ -172,11 +244,11 @@
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/francisco-e-zuppi-aprovam-evento.html",
     "palavras_titulo": [
-      "evento",
-      "santa",
-      "lgbtq",
-      "pela",
-      "basílica"
+      "aprovam",
+      "peregrinação",
+      "basílica",
+      "comunidade",
+      "voltado"
     ]
   },
   {
@@ -184,11 +256,11 @@
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/11/o-processo-sinodal-uma-caixa-de-pandora.html",
     "palavras_titulo": [
-      "loredo",
-      "julio",
-      "livro",
       "ureta",
-      "josé"
+      "loredo",
+      "livro",
+      "josé",
+      "julio"
     ]
   },
   {
@@ -196,11 +268,11 @@
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/11/o-processo-sinodal-uma-caixa-de-pandora.html",
     "palavras_titulo": [
-      "loredo",
-      "julio",
-      "livro",
       "ureta",
-      "josé"
+      "loredo",
+      "livro",
+      "josé",
+      "julio"
     ]
   },
   {
@@ -208,10 +280,10 @@
     "ocorrencias": 2,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/intervencoes-em-ordens-religiosas-e.html",
     "palavras_titulo": [
-      "ordens",
-      "práticas",
       "ataque",
       "religiosas",
+      "tradicionais",
+      "ordens",
       "intervenções"
     ]
   },
@@ -221,10 +293,10 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/declinio-do-catolicismo-crescimento-do.html",
     "palavras_titulo": [
       "protestantismo",
-      "declínio",
       "catolicismo",
       "crescimento",
-      "brasil"
+      "brasil",
+      "declínio"
     ]
   },
   {
@@ -232,11 +304,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/11/quando-soberania-do-homem-substitui-de.html",
     "palavras_titulo": [
-      "soberania",
       "divino",
-      "direito",
       "quando",
-      "humana"
+      "direito",
+      "soberania",
+      "ilusão"
     ]
   },
   {
@@ -244,11 +316,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/11/a-obediencia-que-sustenta-tiranos-e.html",
     "palavras_titulo": [
-      "desmonta",
+      "constrói",
       "como",
-      "arquitetura",
-      "ironia",
-      "constrói"
+      "obediência",
+      "tiranos",
+      "ilusão"
     ]
   },
   {
@@ -269,10 +341,10 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/sob-o-estandarte-de-cristo-rei-lei.html",
     "palavras_titulo": [
       "tirania",
-      "natural",
+      "moral",
       "cristo",
-      "imperativo",
-      "realeza"
+      "natural",
+      "imperativo"
     ]
   },
   {
@@ -280,11 +352,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/10/da-condenacao-reabilitacao-os.html",
     "palavras_titulo": [
-      "mariawitas",
-      "conciliar",
-      "faustina",
       "inversão",
-      "lógica"
+      "mariawitas",
+      "faustina",
+      "igreja",
+      "conciliar"
     ]
   },
   {
@@ -292,11 +364,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/da-ordem-natural-ao-estado-moderno.html",
     "palavras_titulo": [
-      "natural",
-      "ordem",
+      "hoppe",
       "igreja",
       "crítica",
-      "hoppe"
+      "moderno",
+      "ordem"
     ]
   },
   {
@@ -304,11 +376,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/da-ordem-natural-ao-estado-moderno.html",
     "palavras_titulo": [
-      "natural",
-      "ordem",
+      "hoppe",
       "igreja",
       "crítica",
-      "hoppe"
+      "moderno",
+      "ordem"
     ]
   },
   {
@@ -316,11 +388,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/09/da-redencao-dogmatica-reparacao.html",
     "palavras_titulo": [
-      "anatomia",
-      "dogmática",
-      "redenção",
+      "nova",
       "mundo",
-      "gnóstica"
+      "conciliar",
+      "gnóstica",
+      "anatomia"
     ]
   },
   {
@@ -328,11 +400,23 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/08/as-mensagens-de-irma-amapola-e.html",
     "palavras_titulo": [
-      "diagnóstico",
-      "amapola",
       "teológico",
+      "amapola",
+      "santuário",
       "mensagens",
-      "usurpação"
+      "irmã"
+    ]
+  },
+  {
+    "tag": "Atila Sinke Guimarães",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2026/06/atila-sinke-guimaraes-e-nova-teologia.html",
+    "palavras_titulo": [
+      "nova",
+      "teologia",
+      "eclesial",
+      "sinke",
+      "guimarães"
     ]
   },
   {
@@ -340,11 +424,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/06/a-sinodalidade-como-veiculo-da-agenda.html",
     "palavras_titulo": [
-      "como",
-      "sinodalidade",
       "global",
-      "reset",
-      "veículo"
+      "espiritual",
+      "como",
+      "veículo",
+      "agenda"
     ]
   },
   {
@@ -352,11 +436,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/06/leao-xiv-e-vitoria-da-revolucao.html",
     "palavras_titulo": [
-      "comunicação",
+      "leão",
+      "dicastério",
+      "nomeação",
       "leiga",
-      "vitória",
-      "revolução",
-      "para"
+      "comunicação"
     ]
   },
   {
@@ -365,10 +449,10 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/06/o-sagrado-coracao-e-o-concilio-vaticano.html",
     "palavras_titulo": [
       "devem",
-      "sagrado",
-      "concílio",
       "resistir",
-      "católicos"
+      "concílio",
+      "coração",
+      "missa"
     ]
   },
   {
@@ -376,11 +460,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/06/a-evolucao-de-ed-mazza-e-logica-da.html",
     "palavras_titulo": [
-      "mazza",
-      "lógica",
-      "questão",
+      "sedevacantista",
       "evolução",
-      "sedevacantista"
+      "mazza",
+      "questão",
+      "lógica"
     ]
   },
   {
@@ -388,11 +472,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/06/flavio-josefo-os-essenios-e-as-raizes.html",
     "palavras_titulo": [
-      "essênios",
+      "irracionalismo",
+      "josefo",
       "raízes",
       "flávio",
-      "irracionalismo",
-      "josefo"
+      "gnóstico"
     ]
   },
   {
@@ -400,11 +484,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/06/homero-de-oliveira-johas-um-intelectual.html",
     "palavras_titulo": [
-      "tradição",
-      "filosofia",
-      "johas",
       "homero",
-      "oliveira"
+      "clássica",
+      "intelectual",
+      "católico",
+      "tradição"
     ]
   },
   {
@@ -412,10 +496,10 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/03/livro-o-mundo-virado-de-cabeca-para.html",
     "palavras_titulo": [
-      "poder",
-      "verdade",
       "global",
-      "para",
+      "mundo",
+      "virado",
+      "poder",
       "livro"
     ]
   },
@@ -424,11 +508,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/03/padre-elcio-murucci-e-administracao.html",
     "palavras_titulo": [
-      "apostólica",
-      "vaticano",
-      "mayer",
+      "entre",
       "padre",
-      "entre"
+      "submissão",
+      "feroz",
+      "castro"
     ]
   },
   {
@@ -436,11 +520,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/03/livro-o-sacrificio-eucaristico-e.html",
     "palavras_titulo": [
-      "francis",
-      "anglicanismo",
+      "eucarístico",
+      "livro",
       "sacrifício",
       "clark",
-      "livro"
+      "anglicanismo"
     ]
   },
   {
@@ -448,11 +532,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/02/entrevista-exclusiva-com-o-arcebispo.html",
     "palavras_titulo": [
-      "exclusiva",
       "arcebispo",
-      "talmúdica",
-      "entrevista",
-      "parte"
+      "parte",
+      "viganò",
+      "epstein",
+      "talmúdica"
     ]
   },
   {
@@ -464,7 +548,7 @@
       "livro",
       "griffin",
       "anticatolicismo",
-      "século"
+      "susan"
     ]
   },
   {
@@ -472,11 +556,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/01/livro-sobre-duas-asas-fe-humilde-e-bom.html",
     "palavras_titulo": [
-      "fundação",
-      "americana",
-      "livro",
       "novak",
-      "sobre"
+      "michael",
+      "livro",
+      "fundação",
+      "americana"
     ]
   },
   {
@@ -484,11 +568,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2026/01/livro-o-pontificado-desastroso-de.html",
     "palavras_titulo": [
-      "pontificado",
-      "livro",
-      "desastroso",
+      "francisco",
       "dominic",
-      "grigio"
+      "grigio",
+      "pontificado",
+      "livro"
     ]
   },
   {
@@ -496,11 +580,35 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/12/a-catastrofe-liturgica-destruicao-da-fe.html",
     "palavras_titulo": [
-      "catástrofe",
-      "invalidez",
-      "moderno",
+      "destruição",
       "pelo",
-      "sombra"
+      "rito",
+      "invalidez",
+      "litúrgica"
+    ]
+  },
+  {
+    "tag": "Helena Blavatsky",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/12/o-movimento-teosofico-esoterico-de.html",
+    "palavras_titulo": [
+      "esotérico",
+      "quântico",
+      "teosófico",
+      "cristianismo",
+      "movimento"
+    ]
+  },
+  {
+    "tag": "Alice Bailey",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/12/influencias-da-nova-teologia-de-alice.html",
+    "palavras_titulo": [
+      "alice",
+      "influências",
+      "nova",
+      "igreja",
+      "teologia"
     ]
   },
   {
@@ -509,10 +617,10 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/igreja-palmariana-origens-e-contexto.html",
     "palavras_titulo": [
       "origens",
-      "ramo",
+      "sedevacantista",
+      "geral",
       "palmariana",
-      "contexto",
-      "geral"
+      "igreja"
     ]
   },
   {
@@ -520,11 +628,59 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/11/livro-infiltracao-o-complo-para.html",
     "palavras_titulo": [
-      "dentro",
-      "para",
-      "livro",
       "complô",
-      "destruir"
+      "destruir",
+      "igreja",
+      "taylor",
+      "livro"
+    ]
+  },
+  {
+    "tag": "John S. Daly",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/os-principais-erros-do-sedevacantismo.html",
+    "palavras_titulo": [
+      "sectáriojohn",
+      "principais",
+      "sedevacantismo",
+      "daly",
+      "erros"
+    ]
+  },
+  {
+    "tag": "Martin Gwynne",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/os-principais-erros-do-sedevacantismo.html",
+    "palavras_titulo": [
+      "sectáriojohn",
+      "principais",
+      "sedevacantismo",
+      "daly",
+      "erros"
+    ]
+  },
+  {
+    "tag": "Richard Ibranyi",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/os-principais-erros-do-sedevacantismo.html",
+    "palavras_titulo": [
+      "sectáriojohn",
+      "principais",
+      "sedevacantismo",
+      "daly",
+      "erros"
+    ]
+  },
+  {
+    "tag": "Vincent Zins",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/os-principais-erros-do-sedevacantismo.html",
+    "palavras_titulo": [
+      "sectáriojohn",
+      "principais",
+      "sedevacantismo",
+      "daly",
+      "erros"
     ]
   },
   {
@@ -532,11 +688,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/a-destronizacao-liturgica-de-cristo-rei.html",
     "palavras_titulo": [
+      "litúrgica",
       "cristo",
       "festas",
-      "teologias",
-      "duas",
-      "destronização"
+      "destronização",
+      "duas"
     ]
   },
   {
@@ -544,11 +700,44 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/artigos-instituto-mater-boni-consilii.html",
     "palavras_titulo": [
-      "artigos",
       "consilii",
-      "instituto",
+      "mater",
       "boni",
-      "mater"
+      "instituto",
+      "artigos"
+    ]
+  },
+  {
+    "tag": "Alfredo Méndez-Gonzalez",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/tabela-bispos-sedevacantistas-em.html",
+    "palavras_titulo": [
+      "sedevacantistas",
+      "bispos",
+      "tradicionalistas",
+      "construção"
+    ]
+  },
+  {
+    "tag": "Clemente Domínguez y Gómez",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/tabela-bispos-sedevacantistas-em.html",
+    "palavras_titulo": [
+      "sedevacantistas",
+      "bispos",
+      "tradicionalistas",
+      "construção"
+    ]
+  },
+  {
+    "tag": "Michel-Louis Guérard des Lauriers",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/tabela-bispos-sedevacantistas-em.html",
+    "palavras_titulo": [
+      "sedevacantistas",
+      "bispos",
+      "tradicionalistas",
+      "construção"
     ]
   },
   {
@@ -556,11 +745,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/dilexi-te-pobreza-como-um-mal-entendido.html",
     "palavras_titulo": [
-      "como",
       "teológico",
-      "dilexi",
+      "pobreza",
+      "como",
       "entendido",
-      "pobreza"
+      "dilexi"
     ]
   },
   {
@@ -568,10 +757,10 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/seminario-santissima-trindade.html",
     "palavras_titulo": [
-      "santíssima",
-      "seminário",
       "publicações",
-      "trindade"
+      "santíssima",
+      "trindade",
+      "seminário"
     ]
   },
   {
@@ -579,11 +768,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/biografia-do-monsenhor-francesco.html",
     "palavras_titulo": [
-      "biografia",
-      "francesco",
+      "monsenhor",
       "spadafora",
+      "francesco",
       "tradicionalista",
-      "monsenhor"
+      "biografia"
     ]
   },
   {
@@ -591,11 +780,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/biografia-do-monsenhor-francesco.html",
     "palavras_titulo": [
-      "biografia",
-      "francesco",
+      "monsenhor",
       "spadafora",
+      "francesco",
       "tradicionalista",
-      "monsenhor"
+      "biografia"
     ]
   },
   {
@@ -603,11 +792,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/10/biografia-do-monsenhor-francesco.html",
     "palavras_titulo": [
-      "biografia",
-      "francesco",
+      "monsenhor",
       "spadafora",
+      "francesco",
       "tradicionalista",
-      "monsenhor"
+      "biografia"
     ]
   },
   {
@@ -615,11 +804,23 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/08/livro-vendo-atraves-da-singularidade.html",
     "palavras_titulo": [
-      "mark",
-      "conspiração",
-      "livro",
+      "haugen",
       "singularidade",
-      "douglas"
+      "desvendando",
+      "através",
+      "livro"
+    ]
+  },
+  {
+    "tag": "S. Gregório VII",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/a-supremacia-de-cristo-rei-versus.html",
+    "palavras_titulo": [
+      "homem",
+      "alto",
+      "gregório",
+      "supremacia",
+      "papae"
     ]
   },
   {
@@ -627,11 +828,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/entrevista-exclusiva-com-o-arcebispo.html",
     "palavras_titulo": [
-      "rosto",
-      "humano",
+      "leão",
       "arcebispo",
       "parte",
-      "entrevista"
+      "viganò",
+      "modernismo"
     ]
   },
   {
@@ -640,9 +841,9 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/05/lista-das-principais-obras-de-orlando.html",
     "palavras_titulo": [
       "lista",
+      "fedeli",
       "principais",
       "orlando",
-      "fedeli",
       "obras"
     ]
   },
@@ -651,10 +852,10 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/a-crise-da-traditionis-custodes-e.html",
     "palavras_titulo": [
-      "autoridade",
-      "tradição",
+      "teologia",
+      "ruptura",
+      "esvinculada",
       "objetiva",
-      "verdade",
       "custodes"
     ]
   },
@@ -663,10 +864,10 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/o-culto-do-banal-apalhacada.html",
     "palavras_titulo": [
-      "sinodal",
-      "canta",
-      "antonio",
+      "banal",
+      "igreja",
       "culto",
+      "apalhaçada",
       "imagine"
     ]
   },
@@ -675,11 +876,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/07/uma-confissao-inesperada-tradicao.html",
     "palavras_titulo": [
-      "tradição",
+      "confissão",
       "impedida",
       "perdida",
       "concílio",
-      "conversão"
+      "tradição"
     ]
   },
   {
@@ -687,11 +888,23 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/a-crise-pastoral-da-igreja-e-sua.html",
     "palavras_titulo": [
-      "piedosa",
-      "transformação",
+      "frei",
+      "igreja",
       "pastoral",
       "boff",
-      "frei"
+      "transformação"
+    ]
+  },
+  {
+    "tag": "James Anderson",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/a-maconaria-e-face-oculta-do.html",
+    "palavras_titulo": [
+      "alain",
+      "maçonaria",
+      "pascal",
+      "protestantismo",
+      "face"
     ]
   },
   {
@@ -701,8 +914,8 @@
     "palavras_titulo": [
       "alain",
       "maçonaria",
-      "protestantismo",
       "pascal",
+      "protestantismo",
       "face"
     ]
   },
@@ -712,10 +925,10 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/a-demolicao-comecou-antes-do-vaticano.html",
     "palavras_titulo": [
       "antes",
-      "começou",
       "missal",
-      "demolição",
-      "revolução"
+      "revolução",
+      "vaticano",
+      "começou"
     ]
   },
   {
@@ -724,10 +937,46 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/a-demolicao-comecou-antes-do-vaticano.html",
     "palavras_titulo": [
       "antes",
-      "começou",
       "missal",
-      "demolição",
-      "revolução"
+      "revolução",
+      "vaticano",
+      "começou"
+    ]
+  },
+  {
+    "tag": "Chris Jackson",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/o-triunfo-da-ambiguidade-com-leao-xiv.html",
+    "palavras_titulo": [
+      "ambiguidade",
+      "leão",
+      "conciliar",
+      "revolução",
+      "triunfo"
+    ]
+  },
+  {
+    "tag": "Aleksandr Dugin",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/a-quarta-teoria-politica-e-o-neo.html",
+    "palavras_titulo": [
+      "política",
+      "dugin",
+      "quarta",
+      "teoria",
+      "neopaganismo"
+    ]
+  },
+  {
+    "tag": "Russia ortodoxa",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/a-quarta-teoria-politica-e-o-neo.html",
+    "palavras_titulo": [
+      "política",
+      "dugin",
+      "quarta",
+      "teoria",
+      "neopaganismo"
     ]
   },
   {
@@ -735,11 +984,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/mais-um-ataque-tradicao-monastica-sob.html",
     "palavras_titulo": [
-      "tradição",
+      "ataque",
       "monástica",
-      "brambilla",
       "mais",
-      "ataque"
+      "brambilla",
+      "tradição"
     ]
   },
   {
@@ -747,11 +996,43 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/mais-um-ataque-tradicao-monastica-sob.html",
     "palavras_titulo": [
-      "tradição",
+      "ataque",
       "monástica",
-      "brambilla",
       "mais",
-      "ataque"
+      "brambilla",
+      "tradição"
+    ]
+  },
+  {
+    "tag": "Aidan Nichols",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/o-universalismo-e-o-misericordismo-de.html",
+    "palavras_titulo": [
+      "universalismo",
+      "misericordismo",
+      "balthasar"
+    ]
+  },
+  {
+    "tag": "Ralph Martin",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/o-universalismo-e-o-misericordismo-de.html",
+    "palavras_titulo": [
+      "universalismo",
+      "misericordismo",
+      "balthasar"
+    ]
+  },
+  {
+    "tag": "Inglaterra",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/o-anglicanismo-na-perspectiva-da.html",
+    "palavras_titulo": [
+      "monsenhor",
+      "segundo",
+      "anglicanismo",
+      "conjuração",
+      "anticristã"
     ]
   },
   {
@@ -759,11 +1040,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/06/o-inferno-e-o-catecismo-do-quem-sou-eu.html",
     "palavras_titulo": [
-      "inferno",
+      "catecismo",
       "julgar",
       "quem",
       "para",
-      "catecismo"
+      "inferno"
     ]
   },
   {
@@ -772,10 +1053,10 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/05/a-fe-intacta-condicao-indispensavel.html",
     "palavras_titulo": [
       "intacta",
-      "autoridade",
+      "para",
       "pontifícia",
       "condição",
-      "para"
+      "indispensável"
     ]
   },
   {
@@ -784,10 +1065,10 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/05/unidade-de-fe-da-igreja-catolica-e-o.html",
     "palavras_titulo": [
       "unidade",
-      "erro",
-      "posição",
+      "igreja",
       "católica",
-      "resistir"
+      "reconhecer",
+      "posição"
     ]
   },
   {
@@ -796,10 +1077,10 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/05/critica-de-orlando-fedeli-as-visoes-de.html",
     "palavras_titulo": [
       "visões",
-      "orlando",
-      "anna",
+      "emmerick",
       "fedeli",
-      "emmerick"
+      "crítica",
+      "anna"
     ]
   },
   {
@@ -807,10 +1088,10 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/04/a-corrupcao-no-vaticano-pena-parra.html",
     "palavras_titulo": [
-      "farrell",
-      "vaticano",
       "peña",
+      "farrell",
       "corrupção",
+      "parra",
       "crise"
     ]
   },
@@ -819,10 +1100,10 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/04/a-corrupcao-no-vaticano-pena-parra.html",
     "palavras_titulo": [
-      "farrell",
-      "vaticano",
       "peña",
+      "farrell",
       "corrupção",
+      "parra",
       "crise"
     ]
   },
@@ -831,11 +1112,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/decadencia-de-uma-igreja-em-movimento.html",
     "palavras_titulo": [
-      "fuga",
       "arcebispo",
+      "igreja",
       "decadência",
-      "tornou",
-      "agüer"
+      "agüer",
+      "fuga"
     ]
   },
   {
@@ -843,10 +1124,10 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/a-heresia-antiliturgica-por-dom.html",
     "palavras_titulo": [
-      "antilitúrgica",
+      "ricossa",
       "francesco",
       "heresia",
-      "ricossa"
+      "antilitúrgica"
     ]
   },
   {
@@ -854,11 +1135,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/03/livro-crise-da-autoridade-na-igreja-os.html",
     "palavras_titulo": [
-      "autoridade",
-      "papas",
-      "livro",
+      "igreja",
       "maxence",
-      "vaticano"
+      "livro",
+      "legítimos",
+      "hecquard"
     ]
   },
   {
@@ -867,10 +1148,10 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/fraternidade-ou-concessao-uma-critica.html",
     "palavras_titulo": [
       "fraternidade",
+      "crítica",
       "campanha",
       "cnbb",
-      "concessão",
-      "crítica"
+      "concessão"
     ]
   },
   {
@@ -879,10 +1160,10 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/fraternidade-ou-concessao-uma-critica.html",
     "palavras_titulo": [
       "fraternidade",
+      "crítica",
       "campanha",
       "cnbb",
-      "concessão",
-      "crítica"
+      "concessão"
     ]
   },
   {
@@ -890,11 +1171,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/a-igreja-pos-vaticano-ii-e-uma-religiao.html",
     "palavras_titulo": [
+      "igreja",
+      "autenticidade",
       "religiosa",
       "retórica",
-      "autenticidade",
-      "dilui",
-      "profundidade"
+      "experiência"
     ]
   },
   {
@@ -902,11 +1183,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/a-supressao-do-sodalitium-e-as-medidas.html",
     "palavras_titulo": [
-      "arbitrária",
+      "transparência",
       "falta",
-      "medidas",
-      "abordagem",
-      "refletem"
+      "supressão",
+      "arbitrária",
+      "medidas"
     ]
   },
   {
@@ -914,11 +1195,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/francisco-favorece-migracao.html",
     "palavras_titulo": [
-      "deep",
-      "descontrolada",
+      "francisco",
+      "negócios",
       "carta",
-      "state",
-      "grandes"
+      "migração",
+      "beneficiando"
     ]
   },
   {
@@ -927,10 +1208,10 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/os-lideres-da-igreja-catolica-nao-estao.html",
     "palavras_titulo": [
       "medo",
+      "igreja",
       "seguem",
-      "católica",
-      "destrutiva",
-      "cristo"
+      "agenda",
+      "destrutiva"
     ]
   },
   {
@@ -938,10 +1219,10 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/cardeal-blase-cupich-impoe-restricoes.html",
     "palavras_titulo": [
-      "tridentina",
       "blase",
       "impõe",
-      "chicago",
+      "missa",
+      "tridentina",
       "cupich"
     ]
   },
@@ -950,11 +1231,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2025/02/livro-quando-o-mar-se-retira-tragedia.html",
     "palavras_titulo": [
-      "retira",
       "tragédia",
-      "maugendre",
-      "livro",
-      "século"
+      "quando",
+      "jean",
+      "retira",
+      "igreja"
     ]
   },
   {
@@ -962,11 +1243,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/livro-mouth-of-lion-de-david-allen.html",
     "palavras_titulo": [
-      "white",
-      "antônio",
-      "mouth",
-      "mayer",
-      "livro"
+      "lion",
+      "castro",
+      "livro",
+      "trabalho",
+      "vida"
     ]
   },
   {
@@ -974,10 +1255,10 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/para-francisco-libertinos-e-adulteros.html",
     "palavras_titulo": [
-      "vindos",
+      "francisco",
       "casados",
-      "para",
       "adúlteros",
+      "vindos",
       "igreja"
     ]
   },
@@ -986,11 +1267,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/livro-o-protestantismo-assassino-no.html",
     "palavras_titulo": [
-      "religiosos",
-      "michel",
       "conflitos",
       "assassino",
-      "século"
+      "século",
+      "associada",
+      "protestantismo"
     ]
   },
   {
@@ -998,11 +1279,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/irmao-michael-dimond-e-um-dos-lideres.html",
     "palavras_titulo": [
-      "family",
-      "dimond",
-      "irmão",
-      "mosteiro",
-      "most"
+      "sedevacantista",
+      "michael",
+      "líderes",
+      "most",
+      "irmão"
     ]
   },
   {
@@ -1010,10 +1291,10 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/artigo-os-sete-pecados-contra-o.html",
     "palavras_titulo": [
+      "artigo",
+      "tragédia",
       "sinodal",
       "santo",
-      "tragédia",
-      "müller",
       "sete"
     ]
   },
@@ -1022,11 +1303,23 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/substituindo-o-natal-como-misterio-da.html",
     "palavras_titulo": [
-      "natal",
-      "pela",
+      "devoções",
+      "encarnação",
       "como",
-      "pagãs",
-      "encarnação"
+      "deus",
+      "substituindo"
+    ]
+  },
+  {
+    "tag": "Alexis Bugnolo",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/papa-bento-xvi-nunca-renunciou-e-o-papa.html",
+    "palavras_titulo": [
+      "francisco",
+      "nunca",
+      "alexis",
+      "bento",
+      "verdadeiro"
     ]
   },
   {
@@ -1034,11 +1327,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/12/papa-bento-xvi-nunca-renunciou-e-o-papa.html",
     "palavras_titulo": [
-      "verdadeiro",
-      "renunciou",
+      "francisco",
+      "nunca",
       "alexis",
-      "bugnolo",
-      "nunca"
+      "bento",
+      "verdadeiro"
     ]
   },
   {
@@ -1046,11 +1339,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/11/exegeses-eroticamente-imaginativas-do.html",
     "palavras_titulo": [
+      "vaticano",
       "exegeses",
-      "pontifícia",
-      "novo",
+      "pregador",
       "casa",
-      "eroticamente"
+      "pontifícia"
     ]
   },
   {
@@ -1059,10 +1352,10 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/11/livro-la-ultima-etapa-de-la.html",
     "palavras_titulo": [
       "federico",
+      "carlés",
       "livro",
       "última",
-      "gobierno",
-      "sobre"
+      "globalización"
     ]
   },
   {
@@ -1070,10 +1363,10 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/11/livro-estudo-das-seitas-hare.html",
     "palavras_titulo": [
-      "testemunhas",
-      "mormonismo",
-      "mcdowell",
+      "teosofia",
       "stewart",
+      "josh",
+      "hare",
       "livro"
     ]
   },
@@ -1082,10 +1375,10 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/11/livro-estudo-das-seitas-hare.html",
     "palavras_titulo": [
-      "testemunhas",
-      "mormonismo",
-      "mcdowell",
+      "teosofia",
       "stewart",
+      "josh",
+      "hare",
       "livro"
     ]
   },
@@ -1095,10 +1388,10 @@
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/11/uma-carta-aberta-para-bispo-clarence.html",
     "palavras_titulo": [
       "thuc",
-      "carta",
-      "sagrado",
-      "profano",
-      "sobre"
+      "para",
+      "erros",
+      "kelly",
+      "bispos"
     ]
   },
   {
@@ -1238,11 +1531,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/descuido-com-identidade-catolica-lece.html",
     "palavras_titulo": [
-      "identidade",
       "descuido",
-      "católica",
       "ambígua",
-      "andrógina"
+      "católica",
+      "andrógina",
+      "identidade"
     ]
   },
   {
@@ -1250,11 +1543,23 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/protestantismo-historia-oculta-e.html",
     "palavras_titulo": [
-      "barraycoa",
-      "contemporáneo",
-      "protestantismo",
+      "historia",
+      "impacto",
+      "mundo",
       "livro",
-      "javier"
+      "barraycoa"
+    ]
+  },
+  {
+    "tag": "Klaus Schwab",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/a-igreja-sinodal-altera-o-papado-e.html",
+    "palavras_titulo": [
+      "papado",
+      "arcebispo",
+      "igreja",
+      "natureza",
+      "viganò"
     ]
   },
   {
@@ -1262,11 +1567,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/livros-morte-e-restauracao-da-cultura.html",
     "palavras_titulo": [
+      "senior",
+      "john",
       "livros",
       "cultura",
-      "john",
-      "morte",
-      "senior"
+      "morte"
     ]
   },
   {
@@ -1274,11 +1579,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/livros-morte-e-restauracao-da-cultura.html",
     "palavras_titulo": [
+      "senior",
+      "john",
       "livros",
       "cultura",
-      "john",
-      "morte",
-      "senior"
+      "morte"
     ]
   },
   {
@@ -1286,11 +1591,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/intervencao-na-ordem-de-malta-abuso-de.html",
     "palavras_titulo": [
+      "francisco",
       "poder",
       "malta",
-      "abuso",
-      "intervenção",
-      "ordem"
+      "ordem",
+      "abuso"
     ]
   },
   {
@@ -1298,11 +1603,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/judeus-convertidos-atuaram-no-vaticano.html",
     "palavras_titulo": [
-      "declaração",
+      "judeus",
+      "atuaram",
       "nostra",
-      "aetate",
-      "vaticano",
-      "judeus"
+      "convertidos",
+      "aetate"
     ]
   },
   {
@@ -1310,11 +1615,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/removido-pelo-papa-francisco-bispo.html",
     "palavras_titulo": [
-      "removido",
-      "bispo",
-      "martin",
+      "francisco",
+      "holley",
       "pelo",
-      "papa"
+      "martin",
+      "removido"
     ]
   },
   {
@@ -1322,10 +1627,10 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/citacoes-profecia-de-nossa-senhora-la.html",
     "palavras_titulo": [
-      "profecias",
       "senhora",
+      "nossa",
       "salette",
-      "nossa"
+      "profecias"
     ]
   },
   {
@@ -1333,11 +1638,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/citacoes-heresias.html",
     "palavras_titulo": [
-      "américo",
+      "queremos",
+      "jovens",
       "converter",
       "aguiar",
-      "jovens",
-      "cardeal"
+      "américo"
     ]
   },
   {
@@ -1345,10 +1650,10 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/visao-controversa-sobre.html",
     "palavras_titulo": [
-      "timothy",
-      "sobre",
-      "radcliffe",
+      "visão",
       "controversa",
+      "sobre",
+      "timothy",
       "homossexualidade"
     ]
   },
@@ -1357,11 +1662,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/abuso-de-poder-bispo-dominique-touvet.html",
     "palavras_titulo": [
+      "touvet",
       "poder",
       "dominique",
-      "bispo",
       "abuso",
-      "touvet"
+      "bispo"
     ]
   },
   {
@@ -1369,11 +1674,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/sinodalidade-e-reforma-da-igreja.html",
     "palavras_titulo": [
-      "sinodalidade",
-      "czerny",
-      "cardeal",
       "igreja",
-      "michael"
+      "michael",
+      "czerny",
+      "sinodalidade",
+      "reforma"
     ]
   },
   {
@@ -1381,11 +1686,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/francisco-duvidas-quanto-ao-espirito.html",
     "palavras_titulo": [
+      "francisco",
       "santo",
-      "espírito",
       "dúvidas",
       "papa",
-      "francisco"
+      "espírito"
     ]
   },
   {
@@ -1393,10 +1698,34 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/reforma-liturgica-movimento.html",
     "palavras_titulo": [
-      "movimento",
       "reforma",
-      "neocatecumenal",
-      "litúrgica"
+      "litúrgica",
+      "movimento",
+      "neocatecumenal"
+    ]
+  },
+  {
+    "tag": "Emma Bonino",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/abortismo-acoes-do-papa-francisco.html",
+    "palavras_titulo": [
+      "francisco",
+      "favor",
+      "abortismo",
+      "papa",
+      "ações"
+    ]
+  },
+  {
+    "tag": "Mariana Mazzucato",
+    "ocorrencias": 1,
+    "exemplo_post": "https://f1descatholica.blogspot.com/2024/10/abortismo-acoes-do-papa-francisco.html",
+    "palavras_titulo": [
+      "francisco",
+      "favor",
+      "abortismo",
+      "papa",
+      "ações"
     ]
   },
   {
@@ -1404,11 +1733,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/09/livro-no-crisis-in-catholic-church.html",
     "palavras_titulo": [
+      "galloway",
+      "simon",
       "crisis",
-      "catholic",
-      "church",
       "livro",
-      "simon"
+      "church"
     ]
   },
   {
@@ -1416,11 +1745,11 @@
     "ocorrencias": 1,
     "exemplo_post": "https://f1descatholica.blogspot.com/2024/08/sedevacantismo-livros.html",
     "palavras_titulo": [
+      "sáenz",
       "concílio",
       "livro",
       "sedevacantismo",
-      "paulo",
-      "vaticano"
+      "paulo"
     ]
   }
 ]
